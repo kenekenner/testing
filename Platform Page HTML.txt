@@ -1,0 +1,1743 @@
+
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="preload">
+	<link rel="stylesheet" href="https://use.typekit.net/xvv2con.css">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" href="https://www.celigo.com/platform/" hreflang="en" />
+<link rel="alternate" href="https://www.celigo.com/de/plattform/" hreflang="de" />
+<link rel="alternate" href="https://www.celigo.com/fr/plateforme/" hreflang="fr" />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v25.2 (Yoast SEO v25.2) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Celigo Platform: Intelligent Automation Platform</title>
+	<meta name="description" content="Learn about the capabilities and features of Celigo&#039;s intelligent automation platform, the #1 ranked iPaaS by G2 and a Visionary in the Gartner® Magic Quadrant™." />
+	<link rel="canonical" href="https://www.celigo.com/platform/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:locale:alternate" content="de_DE" />
+	<meta property="og:locale:alternate" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Celigo Platform: Intelligent Automation Platform" />
+	<meta property="og:description" content="Learn about the capabilities and features of Celigo&#039;s intelligent automation platform, the #1 ranked iPaaS by G2 and a Visionary in the Gartner® Magic Quadrant™." />
+	<meta property="og:url" content="https://www.celigo.com/platform/" />
+	<meta property="og:site_name" content="Celigo" />
+	<meta property="article:modified_time" content="2025-05-28T20:23:51+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Celigo Platform" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.celigo.com/platform/","url":"https://www.celigo.com/platform/","name":"Celigo Platform: Intelligent Automation Platform","isPartOf":{"@id":"https://www.celigo.com/#website"},"datePublished":"2024-04-25T16:22:49+00:00","dateModified":"2025-05-28T20:23:51+00:00","description":"Learn about the capabilities and features of Celigo's intelligent automation platform, the #1 ranked iPaaS by G2 and a Visionary in the Gartner® Magic Quadrant™.","breadcrumb":{"@id":"https://www.celigo.com/platform/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.celigo.com/platform/"]}]},{"@type":"BreadcrumbList","@id":"https://www.celigo.com/platform/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.celigo.com/"},{"@type":"ListItem","position":2,"name":"Celigo Platform"}]},{"@type":"WebSite","@id":"https://www.celigo.com/#website","url":"https://www.celigo.com/","name":"Celigo","description":"Integrate, automate, and optimize all your business processes","publisher":{"@id":"https://www.celigo.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.celigo.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.celigo.com/#organization","name":"Celigo","url":"https://www.celigo.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.celigo.com/#/schema/logo/image/","url":"https://www.celigo.com/wp-content/uploads/2024/04/celigo-logo.png","contentUrl":"https://www.celigo.com/wp-content/uploads/2024/04/celigo-logo.png","width":348,"height":123,"caption":"Celigo"},"image":{"@id":"https://www.celigo.com/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Celigo &raquo; Feed" href="https://www.celigo.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Celigo &raquo; Comments Feed" href="https://www.celigo.com/comments/feed/" />
+<link rel="icon" type="image/png" href="https://www.celigo.com/wp-content/uploads/2024/05/cropped-Celigo-Monogram-2024-RGB.png">
+<style   data-wpacu-inline-css-file='1'>
+/*!/wp-content/themes/celigo/dist/css/vendors/slick.css*/.slick-slider{position:relative;display:block;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:#fff0}.slick-list{position:relative;overflow:hidden;display:block;margin:0;padding:0}.slick-list:focus{outline:0}.slick-list.dragging{cursor:pointer;cursor:hand}.slick-slider .slick-list,.slick-slider .slick-track{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.slick-track{position:relative;left:0;top:0;display:block;margin-left:auto;margin-right:auto}.slick-track:after,.slick-track:before{content:"";display:table}.slick-track:after{clear:both}.slick-loading .slick-track{visibility:hidden}.slick-slide{float:left;height:100%;min-height:1px;display:none}[dir=rtl] .slick-slide{float:right}.slick-slide img{display:block}.slick-slide.slick-loading img{display:none}.slick-slide.dragging img{pointer-events:none}.slick-initialized .slick-slide{display:block}.slick-loading .slick-slide{visibility:hidden}.slick-vertical .slick-slide{display:block;height:auto;border:1px solid #fff0}.slick-arrow.slick-hidden{display:none}
+</style>
+<link rel='stylesheet' id='fancybox-css-css' href='https://www.celigo.com/wp-content/cache/asset-cleanup/css/item/celigo__dist__css__vendors__jquery-fancybox-css-v26b2c3019d926f9aba713d0cb3830a9fb40172cd.css' media='all' />
+<link rel='stylesheet' id='theme-css' href='https://www.celigo.com/wp-content/cache/asset-cleanup/css/item/celigo__dist__css__style-css-vc8247e27bfaa10f20a12dc3a5ee87d81cace74d4.css' media='all' />
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<link rel='stylesheet' id='mpp_gutenberg-css' href='https://www.celigo.com/wp-content/cache/asset-cleanup/css/item/metronet-profile-picture__dist__blocks-style-build-css-v157bb6025330aa86cc172d32ee356dc8c4431532.css' media='all' />
+<link rel='stylesheet' id='megamenu-css' href='https://www.celigo.com/wp-content/cache/asset-cleanup/css/item/content__uploads__maxmegamenu__style_en_us-css-vfe86fdbc29fa64af018733c56719275ff2c9f903.css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.celigo.com/wp-includes/css/dashicons.min.css?ver=6.8' media='all' />
+<link rel='stylesheet' id='megamenu-genericons-css' href='https://www.celigo.com/wp-content/cache/asset-cleanup/css/item/megamenu-pro__icons__genericons__genericons__genericons-css-v166bdb1cf694f16b69a6f396b7143b955de45ae3.css' media='all' />
+<link rel='stylesheet' id='megamenu-fontawesome6-css' href='https://www.celigo.com/wp-content/plugins/megamenu-pro/icons/fontawesome6/css/all.min.css?ver=2.4.3' media='all' />
+<style   data-wpacu-inline-css-file='1'>
+/*!
+Theme Name: Celigo
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.694
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: celigo
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+celigo is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+
+</style>
+<link rel='stylesheet' id='simcal-qtip-css' href='https://www.celigo.com/wp-content/plugins/google-calendar-events/assets/generated/vendor/jquery.qtip.min.css?ver=3.5.3' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-grid-css' href='https://www.celigo.com/wp-content/plugins/google-calendar-events/assets/generated/default-calendar-grid.min.css?ver=3.5.3' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-list-css' href='https://www.celigo.com/wp-content/plugins/google-calendar-events/assets/generated/default-calendar-list.min.css?ver=3.5.3' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css' href='//www.celigo.com/wp-content/uploads/pum/pum-site-styles.css?generated=1748759380&#038;ver=1.20.5' media='all' />
+<link rel='stylesheet' id='hcb-style-css' href='https://www.celigo.com/wp-content/plugins/highlighting-code-block/build/css/hcb--dark.css?ver=2.0.1' media='all' />
+<style id='hcb-style-inline-css'>
+:root{--hcb--fz--base: 14px}:root{--hcb--fz--mobile: 13px}:root{--hcb--ff:Menlo, Consolas, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;}
+</style>
+<script src="https://www.celigo.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.celigo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://www.celigo.com/wp-content/themes/celigo/dist/js/jquery.fancybox.min.js?ver=6.8" id="fancybox-js"></script>
+<script id="theme-js-extra">
+var celigo_vars = {"postID":"3362","postType":"page"};
+</script>
+<script src="https://www.celigo.com/wp-content/themes/celigo/dist/js/theme.min.js?ver=1.0.694" id="theme-js"></script>
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.celigo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.celigo.com%2Fplatform%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.celigo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.celigo.com%2Fplatform%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.3.6-->
+			<script class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<style>html.lenis, html.lenis body {height: auto;}.lenis.lenis-smooth {scroll-behavior: auto !important;}.lenis.lenis-smooth [data-lenis-prevent] {overscroll-behavior: contain;}.lenis.lenis-stopped {overflow: hidden;}.lenis.lenis-smooth iframe {pointer-events: none;}</style>    <script>
+        (function($) {
+
+            // Accordion part 1: toggle the 'opened' class on click of icons and close other parents on the same level.
+            $(document).on('click', '.facetwp-type-checkboxes .facetwp-expand', function(e) {
+
+                $(this).toggleClass('opened');
+                $(this).closest('.facetwp-checkbox').siblings('.facetwp-checkbox').each(function() {
+                    $(this).next('.facetwp-depth').removeClass('visible');
+                    $(this).children('.facetwp-expand').removeClass('opened');
+                });
+                e.stopPropagation();
+            });
+
+            // Accordion part 2: if on first pageload a child is already selected, give the parent an 'opened' class.
+            $(document).on('facetwp-loaded', function() {
+                FWP.hooks.addAction('facetwp/loaded', function() {
+                    $('.facetwp-type-checkboxes .facetwp-depth').each(function() {
+                        if ($(this).hasClass('visible')) {
+                            $(this).prev('.facetwp-checkbox').children('.facetwp-expand').addClass('opened');
+                        }
+                    });
+                });
+            });
+        })(jQuery);
+    </script>
+        <style type="text/css">
+            .hidden {display:none;}
+        </style>
+        <script type="text/javascript">
+         jQuery('html').addClass('hidden');
+
+	 jQuery(document).ready(function($) {
+	    $('html').removeClass('hidden');
+	 });
+        </script>
+    <link rel="icon" href="https://www.celigo.com/wp-content/uploads/2024/05/cropped-Celigo-Monogram-2024-RGB-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.celigo.com/wp-content/uploads/2024/05/cropped-Celigo-Monogram-2024-RGB-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.celigo.com/wp-content/uploads/2024/05/cropped-Celigo-Monogram-2024-RGB-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.celigo.com/wp-content/uploads/2024/05/cropped-Celigo-Monogram-2024-RGB-270x270.png" />
+		<style id="wp-custom-css">
+			.nav-bar .site-description {
+	    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    border: 0;
+}
+
+/* #searchwp-form-1 {
+display: none;
+} */
+
+#post-23180 > div > section:nth-child(3) {
+background-color: white !important;
+}
+
+#post-23180 > div > section:nth-child(3) > div > div.body-layout-5v__columns > div.body-layout-5v__col-1 > div.body-layout-5v__col-1-header > h2 {
+	color: #F4BE60;
+}
+
+#post-23180 > div > section:nth-child(3) > div > div.body-layout-5v__columns > div.body-layout-5v__col-2 > div.body-layout-5v__col-2-header > h2 {
+	color: #F4BE60;
+}
+
+#post-23180 > div > section:nth-child(3) > div > div.body-layout-5v__columns > div.body-layout-5v__col-3 > div.body-layout-5v__col-3-header > h2 {
+	color: #F4BE60;
+}
+
+#post-23180 > div > section.custom-module-6m.bg-warm-gray-20.text-celigo-black.padding-top-xsmall.padding-bottom-small {
+	background-color: #FAF9F0;
+}
+
+#post-23180 > div > section.body-layout-5e.bg-cool-gray-10.text-celigo-black.padding-top-xsmall.padding-bottom-xsmall {
+  background-color: #F2EDD2;
+}
+
+#post-23180 > div > section.custom-module-6a.bg-warm-gray-10.text-celigo-black.padding-top-xsmall.padding-bottom-medium {
+  background-color: #F2EDD2;
+}
+
+#post-23180 > div > div {
+	background-color: black;
+	padding: 50px;
+}
+
+#h-advanced-data-mapping {
+	color: white;
+}
+
+#post-23180 > div > div > div:nth-child(1) > p {
+	color: white;
+}
+
+#h-advanced-features-for-comprehensive-integration {
+	background-color: black;
+	color: white;
+	margin: 0;
+  padding: 50px;
+}
+
+#h-flexibility-at-scale {
+	color: white;
+}
+
+#h-ai-error-handling-amp-management {
+	color: white;
+}
+
+#post-23180 > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(2) > p {
+	color: white;
+}
+
+#h-compliance-amp-security {
+	color: white;
+}
+
+#post-23180 > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-2.wp-block-columns-is-layout-flex > div:nth-child(2) > p {
+	color: white;
+}
+
+#post-23180 > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex {
+	margin-bottom: 0;
+}
+
+#post-23180 > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(2) > figure > img {
+	height: 72px;
+	width: auto;
+}
+
+#post-23180 > div > div.wp-block-buttons.alignwide.is-content-justification-center.is-layout-flex.wp-container-core-buttons-is-layout-1.wp-block-buttons-is-layout-flex > div > a {
+	background-color: white;
+	color: black;
+	border-radius: 12px;
+}
+
+#post-23180 > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-2.wp-block-columns-is-layout-flex {
+	margin-bottom: 0;
+}
+
+#post-23180 > div > section.body-layout-5g.bg-celigo-white.text-celigo-black.padding-top-none.padding-bottom-xsmall {
+	background-color: #DBD8D3;
+}
+
+#post-23180 > div > section.body-layout-5g.bg-celigo-white.text-celigo-black.padding-top-none.padding-bottom-medium {
+	background-color: #DBD8D3;
+}
+
+#post-23180 > div > section.body-layout-5j.bg-warm-gray-10.text-celigo-black.padding-top-medium.padding-bottom-medium > div > div.body-layout-5j__header {
+	margin: 0 auto 3.125rem auto;
+}
+
+#post-23180 > div > section.body-layout-5j.bg-warm-gray-10.text-celigo-black.padding-top-medium.padding-bottom-medium > div > div.body-layout-5j__columns > a > div {
+	background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#post-23180 > div > section.custom-module-6a.bg-warm-gray-10.text-celigo-black.padding-top-xsmall.padding-bottom-medium > div > div > div > div.inner > div:nth-child(even) {
+	background-color: transparent;
+}
+
+#post-23180 > div > section.custom-module-6a.bg-warm-gray-10.text-celigo-black.padding-top-xsmall.padding-bottom-medium {
+	padding-bottom: 4rem;
+}
+
+#h-popular-integration-templates {
+	background-color: #DBD8D3;
+    margin: 0;
+    padding-top: 50px;
+	  padding-bottom: 30px;
+    padding-left: 60px;
+}
+
+#post-23180 > div > section.body-layout-5j.bg-warm-gray-10.text-celigo-black.padding-top-none.padding-bottom-medium {
+	background-color: #DBD8D3;
+}
+
+#post-23180 > div > section.body-layout-5j.bg-warm-gray-10.text-celigo-black.padding-top-none.padding-bottom-medium > div > div.body-layout-5j__header {
+	margin: 0 auto 5.125rem auto;
+}
+
+#post-23180 > div > section.body-layout-5j.bg-warm-gray-10.text-celigo-black.padding-top-none.padding-bottom-medium > div > div.body-layout-5j__columns > a > div {
+	  background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#post-23180 > div > section.body-layout-5p.bg-celigo-black.text-celigo-white.padding-top-medium.padding-bottom-medium > div > div.body-layout-5p__top-content {
+	margin: 0 auto 4rem auto;
+}
+
+#netsuite-integrations {
+	box-sizing: inherit;
+    display: inline-block;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-decoration: none!important;
+    border-radius: .5rem;
+    font-size: 1.125rem;
+    line-height: 1.2em;
+    padding: .8125rem 1.5rem .6875rem;
+    font-weight: 600;
+    -webkit-transition: border-radius .3s ease-in-out;
+    cursor: pointer;
+    background-color: #fff0;
+    border: .125rem solid #000;
+    color: inherit; 
+}
+
+#netsuite-integrations:hover {
+    border-radius: 6.25rem !important;
+    transition: border-radius .3s ease-in-out !important;
+    -webkit-transition: border-radius .3s ease-in-out !important;
+}
+
+#get-a-demo {
+    -webkit-text-size-adjust: 100%;
+    box-sizing: inherit;
+    display: inline-block;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-decoration: none!important;
+    border-radius: .5rem;
+    font-size: 1.125rem;
+    line-height: 1.2em;
+    padding: .8125rem 1.5rem .6875rem;
+    font-weight: 600;
+    -webkit-transition: border-radius .3s ease-in-out;
+    border: .125rem solid #fff0;
+    cursor: pointer;
+    background-color: #000;
+    color: #fff;
+}
+
+#get-a-demo:hover {
+    border-radius: 6.25rem !important;
+    transition: border-radius .3s ease-in-out !important;
+    -webkit-transition: border-radius .3s ease-in-out !important;
+}
+.page-id-44921 .body-layout-5e__subhead.__content.wysiwyg.align-center p, .page-id-44921 .body-layout-5ab__subhead p {
+    font-size: 1.25rem;
+    line-height: 1.8rem;
+}
+		</style>
+		<style type="text/css">/** Mega Menu CSS: fs **/</style>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<script type="text/javascript" charset="UTF-8"> !(function() { var analytics = (window.analytics = window.analytics || []); if (!analytics.initialize) { if (analytics.invoked) { window.console && console.error && console.error('MetaRouter snippet included twice.') } else { analytics.invoked = !0; analytics.methods = [ 'trackSubmit', 'trackClick', 'trackLink', 'trackForm', 'pageview', 'identify', 'reset', 'group', 'track', 'ready', 'alias', 'debug', 'page', 'once', 'off', 'on', 'addSourceMiddleware', 'addIntegrationMiddleware', 'setAnonymousId', 'addDestinationMiddleware', ]; analytics.factory = function (e) { return function () { var t = Array.prototype.slice.call(arguments); t.unshift(e); analytics.push(t); return analytics } }; for (var e = 0; e < analytics.methods.length; e++) { var key = analytics.methods[e]; analytics[key] = analytics.factory(key) } analytics.load = function (src, o) { analytics._loadOptions = o; var t = document.createElement('script'); t.type = 'text/javascript'; t.async = !0; t.src = ("https:" === document.location.protocol ? "https://" : "http://") + "cdn.calibermind.com/"+ src + ".js"; var n = document.getElementsByTagName('script')[0]; n.parentNode.insertBefore(t, n); }; analytics.SNIPPET_VERSION = '4.13.1'; analytics.load('a', { writeKey: 'x6QEjj44TCOnLWf1nLjYH'}); analytics.page(); }}})(); </script>
+	<!-- Swiper JS -->
+	<!-- <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" /> -->
+	<link
+	rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+	/>
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-P5BLF36');</script>
+	<!-- End Google Tag Manager -->    		
+	<script src="https://cdn.optimizely.com/js/29780000963.js"></script>
+	<!-- Zoominfo -->
+	<script>
+window[(function(_HlY,_8i){var _KI='';for(var _nR=0;_nR<_HlY.length;_nR++){var _z3=_HlY[_nR].charCodeAt();_z3-=_8i;_z3!=_nR;_z3+=61;_z3%=94;_8i>4;_KI==_KI;_z3+=33;_KI+=String.fromCharCode(_z3)}return _KI})(atob('Y1JZe3hzbmx9VG4k'), 9)] = 'f8b5f3ea751669685381';     var zi = document.createElement('script');     (zi.type = 'text/javascript'),     (zi.async = true),     (zi.src = (function(_jfA,_BU){var _mu='';for(var _Yy=0;_Yy<_jfA.length;_Yy++){var _9u=_jfA[_Yy].charCodeAt();_9u-=_BU;_BU>6;_9u!=_Yy;_mu==_mu;_9u+=61;_9u%=94;_9u+=33;_mu+=String.fromCharCode(_9u)}return _mu})(atob('LTk5NThdUlIvOFE/LlA4KDcuNTk4USg0MlI/LlA5JixRLzg='), 35)),     document.readyState === 'complete'?document.body.appendChild(zi):     window.addEventListener('load', function(){         document.body.appendChild(zi)     });
+</script>
+	<!-- Bing -->
+	<meta name="msvalidate.01" content="9F3F19B2B54F24A43E6C3022E4B31CFE" />
+	<!-- Goldcast include -->
+			
+</head>
+<body class="wp-singular page-template-default page page-id-3362 page-parent wp-theme-celigo gspbody gspb-bodyfront mega-menu-primary mega-menu-login no-sidebar">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5BLF36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	
+			<div id="page" class="site show-banner">
+		<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+					
+			<header id="masthead" class="site-header">
+								<div class="header-banner bg-celigo-black">
+						<div class="container">
+							<div class="header-banner-headline">
+								<span class="header-banner-text">
+																			<span class="header-banner-text">Celigo named a Visionary in the 2025 Gartner® Magic Quadrant™</span>
+																	</span>
+							</div>
+							<div class="header-banner-buttons">
+																											<a href="https://www.celigo.com/lp/celigo-named-visionary-2025/?utm_source=website&#038;utm_medium=earned&#038;utm_campaign=Celigo-25Q2-NA-NL-EXP-ENT-iPaaS-Gartner-Magic-Quadrant&#038;utm_content=website-banner&#038;utm_term=&#038;campaign_id=Celigo-25Q2-NA-NL-EXP-ENT-iPaaS-Gartner-Magic-Quadrant&#038;ad_id=" target="_blank" class="btn btn-primary btn-primary--sm">Get the report </a>
+																								</div>
+						</div>
+					</div>
+								<nav id="top-navigation" class="top-navigation">
+					<div class="container">
+						<div class="menu-top-nav-container"><ul id="top-nav" class="menu"><li id="menu-item-3875" class="menu-search-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-3875"><a href="#">Search</a></li>
+<li id="menu-item-5480" class="top-nav-contact menu-item menu-item-type-post_type menu-item-object-page menu-item-5480"><a href="https://www.celigo.com/contact-us/">Contact us</a></li>
+<li id="menu-item-3877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3877"><a href="#">Sign in</a>
+<ul class="sub-menu">
+	<li id="menu-item-3878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3878"><a href="https://integrator.io/signin">US</a></li>
+	<li id="menu-item-3879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3879"><a href="https://eu.integrator.io/signin">EU</a></li>
+</ul>
+</li>
+</ul></div>					</div>
+				</nav><!-- #top-navigation -->
+				<div class="main-header">
+					<div class="container">
+						<div class="nav-bar">
+							<div class="site-branding">
+								<a href="https://www.celigo.com">
+                                        <img src="https://www.celigo.com/wp-content/uploads/2024/04/celigo-logo.png" alt="Celigo logo" width="174" height="62"/>
+                                    </a>																	<p class="site-title sr-only"><a href="https://www.celigo.com/" rel="home">Celigo</a></p>
+																	<p class="site-description">Integrate, automate, and optimize all your business processes</p>
+															</div><!-- .site-branding -->
+							<nav id="site-navigation" class="main-navigation">
+								<!--						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">--><!--</button>-->
+								<div id="mega-menu-wrap-primary" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-primary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="400" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-panel-width=".nav-bar" data-panel-inner-width=".container" data-mobile-force-width="false" data-second-click="close" data-document-click="disabled" data-vertical-behaviour="standard" data-breakpoint="1215" data-unbind="true" data-mobile-state="collapse_all" data-mobile-direction="vertical" data-hover-intent-timeout="300" data-hover-intent-interval="100" data-overlay-desktop="false" data-overlay-mobile="false"><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-current-menu-ancestor mega-menu-item-has-children mega-menu-megamenu mega-menu-grid mega-align-bottom-left mega-menu-grid mega-menu-item-3860" id="mega-menu-item-3860"><a class="mega-menu-link" href="/platform/" aria-expanded="false" aria-current="page" tabindex="0">Platform<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu" role='presentation'>
+<li class="mega-menu-row" id="mega-menu-3860-0">
+	<ul class="mega-sub-menu" style='--columns:11' role='presentation'>
+<li class="mega-menu-column mega-menu-columns-3-of-11" style="--span:3" id="mega-menu-3860-0-0">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-2" id="mega-menu-item-text-2"><h4 class="mega-block-title">Intelligent Automation Platform</h4>			<div class="textwidget"><p><span style="font-weight: 400;">Celigo named a Visionary in the 2025 Gartner® Magic Quadrant™ for iPaaS</span></p>
+</div>
+		</li><li class="mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-2" id="mega-menu-item-custom_html-2"><div class="textwidget custom-html-widget"><a href="https://www.celigo.com/lp/celigo-named-visionary-2025/" class="btn btn-primary">Get the report</a></div></li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3860-0-1">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-ancestor mega-current-menu-parent mega-menu-item-has-children mega-menu-item-3866 nolink" id="mega-menu-item-3866"><a class="mega-menu-link">Platform Overview<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-item mega-page_item mega-page-item-3362 mega-current_page_item mega-has-description mega-menu-item-5381" id="mega-menu-item-5381"><a class="mega-menu-link" href="https://www.celigo.com/platform/" aria-current="page"><span class="mega-description-group"><span class="mega-menu-title">Celigo Platform</span><span class="mega-menu-description">Learn about our intelligent automation platform.</span></span></a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-description mega-menu-item-5382" id="mega-menu-item-5382"><a class="mega-menu-link" href="https://www.celigo.com/why-celigo/"><span class="mega-description-group"><span class="mega-menu-title">Why Celigo?</span><span class="mega-menu-description">See what makes Celigo different.</span></span></a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-description mega-menu-item-37263" id="mega-menu-item-37263"><a class="mega-menu-link" href="https://www.celigo.com/platform/pricing/"><span class="mega-description-group"><span class="mega-menu-title">Pricing</span><span class="mega-menu-description">Get a custom quote.</span></span></a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3860-0-2">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-3867 nolink" id="mega-menu-item-3867"><a class="mega-menu-link" href="#">Key Capabilities<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-30477" id="mega-menu-item-30477"><a class="mega-menu-link" href="/integrations/">Integration Marketplace</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5384" id="mega-menu-item-5384"><a class="mega-menu-link" href="https://www.celigo.com/platform/api-management/">API Management</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-22743" id="mega-menu-item-22743"><a class="mega-menu-link" href="https://www.celigo.com/platform/b2b-manager/">B2B Manager for EDI</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5385" id="mega-menu-item-5385"><a class="mega-menu-link" href="https://www.celigo.com/platform/error-management/">Error Management</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-35199" id="mega-menu-item-35199"><a class="mega-menu-link" href="https://www.celigo.com/platform/oem-embedded-integrations/">OEM & Embedded Integrations</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-31153" id="mega-menu-item-31153"><a class="mega-menu-link" href="https://www.celigo.com/platform/celigo-private-cloud/">Celigo Private Cloud<span class="mega-menu-badge mega-menu-badge-style-one">NEW</span></a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3860-0-3">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-35031 nolink" id="mega-menu-item-35031"><a class="mega-menu-link" href="#">Governance<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-35032" id="mega-menu-item-35032"><a class="mega-menu-link" href="https://www.celigo.com/platform/security/">Security</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-35033" id="mega-menu-item-35033"><a class="mega-menu-link" href="https://www.celigo.com/platform/scalability/">Scalability</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-35034" id="mega-menu-item-35034"><a class="mega-menu-link" href="https://www.celigo.com/platform/data-governance/">Data Governance</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3860-0-4">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-34710 nolink" id="mega-menu-item-34710"><a class="mega-menu-link" href="#">Generative AI<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-has-icon-right mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-right mega-menu-item-34711 has-icon-right" id="mega-menu-item-34711"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/platform/ai-assistants/">AI Assistants</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-34712" id="mega-menu-item-34712"><a class="mega-menu-link" href="https://www.celigo.com/platform/ai-workflows/">AI Workflows</a></li>			</ul>
+</li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class="mega-has-applications mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-menu-grid mega-align-bottom-left mega-menu-grid mega-menu-item-3862 has-applications" id="mega-menu-item-3862"><a class="mega-menu-link" href="/solutions/" aria-expanded="false" tabindex="0">Solutions<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu" role='presentation'>
+<li class="mega-menu-row" id="mega-menu-3862-0">
+	<ul class="mega-sub-menu" style='--columns:11' role='presentation'>
+<li class="mega-menu-column mega-menu-columns-3-of-11" style="--span:3" id="mega-menu-3862-0-0">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-3" id="mega-menu-item-text-3"><h4 class="mega-block-title">Integration Solutions</h4>			<div class="textwidget"><p>Learn how Celigo automates processes across a range of business functions and use cases.</p>
+</div>
+		</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3862-0-1">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-5399 nolink" id="mega-menu-item-5399"><a class="mega-menu-link" href="#">Functions<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5406" id="mega-menu-item-5406"><a class="mega-menu-link" href="https://www.celigo.com/solutions/ipaas-for-support/">Customer Support</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5415" id="mega-menu-item-5415"><a class="mega-menu-link" href="https://www.celigo.com/solutions/data-warehouse-automation/">Data Warehouse & Analytics</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5402" id="mega-menu-item-5402"><a class="mega-menu-link" href="https://www.celigo.com/solutions/ecommerce-automation/">Ecommerce</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5401" id="mega-menu-item-5401"><a class="mega-menu-link" href="https://www.celigo.com/solutions/finance-accounting-automation/">Finance</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5400" id="mega-menu-item-5400"><a class="mega-menu-link" href="https://www.celigo.com/solutions/it-process-automation/">IT</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-23047" id="mega-menu-item-23047"><a class="mega-menu-link" href="/solutions/peopleops-integration-automation/">PeopleOps</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-31197" id="mega-menu-item-31197"><a class="mega-menu-link" href="https://www.celigo.com/solutions/product-automation/">Product</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-23046" id="mega-menu-item-23046"><a class="mega-menu-link" href="/solutions/revops-integration-automation/">RevOps</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5413" id="mega-menu-item-5413"><a class="mega-menu-link" href="https://www.celigo.com/solutions/supply-chain-integration-manufacturing-wholesale/">Supply Chain</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-4-of-11" style="--span:4" id="mega-menu-3862-0-2">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-2-columns mega-menu-item-5407 nolink" id="mega-menu-item-5407"><a class="mega-menu-link" href="#">Use Cases<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5418" id="mega-menu-item-5418"><a class="mega-menu-link" href="https://www.celigo.com/solutions/3pl-fulfillment-automation/">3PL Management</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-30440" id="mega-menu-item-30440"><a class="mega-menu-link" href="https://www.celigo.com/solutions/apar-accounts-payable-accounts-receivable/">AP/AR</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-28637" id="mega-menu-item-28637"><a class="mega-menu-link" href="https://www.celigo.com/solutions/applicant-tracking-automation/">Applicant Tracking</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-28638" id="mega-menu-item-28638"><a class="mega-menu-link" href="https://www.celigo.com/solutions/benefits-administration-automation/">Benefits Administration</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5417" id="mega-menu-item-5417"><a class="mega-menu-link" href="https://www.celigo.com/solutions/customer360-automation/">Customer 360°</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5414" id="mega-menu-item-5414"><a class="mega-menu-link" href="https://www.celigo.com/solutions/demand-planning-automation/">Demand Planning</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-39844" id="mega-menu-item-39844"><a class="mega-menu-link" href="https://www.celigo.com/solutions/devops/">DevOps</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-14875" id="mega-menu-item-14875"><a class="mega-menu-link" href="https://www.celigo.com/solutions/social-and-search-digital-marketing-automation/">Digital Marketing</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5409" id="mega-menu-item-5409"><a class="mega-menu-link" href="https://www.celigo.com/solutions/ecommerce-marketing-automation/">Ecommerce Marketing</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5412" id="mega-menu-item-5412"><a class="mega-menu-link" href="https://www.celigo.com/solutions/employee-onboarding-automation/">Employee Onboarding</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-27815" id="mega-menu-item-27815"><a class="mega-menu-link" href="https://www.celigo.com/solutions/expense-management-automation/">Expense Management</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-28286" id="mega-menu-item-28286"><a class="mega-menu-link" href="https://www.celigo.com/solutions/financial-planning-analysis-automation/">Financial Planning & Analysis</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5408" id="mega-menu-item-5408"><a class="mega-menu-link" href="https://www.celigo.com/solutions/it-service-management-automation/">IT Service Management</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-27995" id="mega-menu-item-27995"><a class="mega-menu-link" href="https://www.celigo.com/solutions/lead-lifecycle-management-integration/">Lead Lifecycle Management</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5410" id="mega-menu-item-5410"><a class="mega-menu-link" href="https://www.celigo.com/solutions/order-to-cash-automation/">Order-to-Cash</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5416" id="mega-menu-item-5416"><a class="mega-menu-link" href="https://www.celigo.com/solutions/payout-reconciliation-automation/">Payout Reconciliation</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5419" id="mega-menu-item-5419"><a class="mega-menu-link" href="https://www.celigo.com/solutions/procure-to-pay-integrations/">Procure to Pay</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-28521" id="mega-menu-item-28521"><a class="mega-menu-link" href="https://www.celigo.com/solutions/product-data-management/">Product Data Management</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-39843" id="mega-menu-item-39843"><a class="mega-menu-link" href="https://www.celigo.com/solutions/product-management/">Product Management</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-39842" id="mega-menu-item-39842"><a class="mega-menu-link" href="https://www.celigo.com/solutions/product-operations/">Product Operations</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-28331" id="mega-menu-item-28331"><a class="mega-menu-link" href="https://www.celigo.com/solutions/product-usage-automation/">Product Usage</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5411" id="mega-menu-item-5411"><a class="mega-menu-link" href="https://www.celigo.com/solutions/quote-to-cash-automation/">Quote-to-Cash</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5421" id="mega-menu-item-5421"><a class="mega-menu-link" href="https://www.celigo.com/solutions/returns-management-integrations/">Returns Management</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5403" id="mega-menu-item-5403"><a class="mega-menu-link" href="https://www.celigo.com/solutions/saas-integration/">SaaS</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-common-applications mega-menu-columns-2-of-11 common-applications" style="--span:2" id="mega-menu-3862-0-3">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-5386 nolink" id="mega-menu-item-5386"><a class="mega-menu-link" href="#">Common Applications<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5388" id="mega-menu-item-5388"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/salesforce/">Salesforce</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5390" id="mega-menu-item-5390"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/microsoft-dynamics-365/">MS Dynamics 365</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5387" id="mega-menu-item-5387"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/netsuite/">Oracle NetSuite</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5391" id="mega-menu-item-5391"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/sap/">SAP</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5392" id="mega-menu-item-5392"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/amazon/">Amazon</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5393" id="mega-menu-item-5393"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/shopify/">Shopify</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5394" id="mega-menu-item-5394"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/snowflake/">Snowflake</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5395" id="mega-menu-item-5395"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/acumatica/">Acumatica</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-5396" id="mega-menu-item-5396"><a class="mega-custom-icon mega-menu-link" href="https://www.celigo.com/integrations/adp/">ADP</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-right mega-menu-item-5397" id="mega-menu-item-5397"><a class="dashicons-arrow-right-alt mega-menu-link" href="https://www.celigo.com/integrations/">View all applications</a></li>			</ul>
+</li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class="mega-has-featured mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-menu-grid mega-align-bottom-left mega-menu-grid mega-menu-item-3863 has-featured" id="mega-menu-item-3863"><a class="mega-menu-link" href="/blog/" aria-expanded="false" tabindex="0">Resources<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu" role='presentation'>
+<li class="mega-menu-row" id="mega-menu-3863-0">
+	<ul class="mega-sub-menu" style='--columns:11' role='presentation'>
+<li class="mega-menu-column mega-menu-columns-3-of-11" style="--span:3" id="mega-menu-3863-0-0">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-4" id="mega-menu-item-text-4"><h4 class="mega-block-title">Resources</h4>			<div class="textwidget"><p>Find everything you need to become an integration and automation pro.</p>
+</div>
+		</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3863-0-1">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-5454 nolink" id="mega-menu-item-5454"><a class="mega-menu-link" href="#">Build<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-description mega-menu-item-21570" id="mega-menu-item-21570"><a class="mega-menu-link" href="https://www.celigo.com/builders-hub/"><span class="mega-description-group"><span class="mega-menu-title">Builder’s Hub</span><span class="mega-menu-description">Tutorials and video demos on getting started, best practices, use cases, and latest features.</span></span></a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-description mega-menu-item-37720" id="mega-menu-item-37720"><a target="_blank" class="mega-menu-link" href="https://connective.celigo.com/"><span class="mega-description-group"><span class="mega-menu-title">Celigo Connective</span><span class="mega-menu-description">A friendly user community for builders to ask questions and share knowledge.</span></span></a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-description mega-menu-item-31202" id="mega-menu-item-31202"><a target="_blank" class="mega-menu-link" href="https://training.celigo.com/"><span class="mega-description-group"><span class="mega-menu-title">Celigo U</span><span class="mega-menu-description">Join live training sessions and access on-demand learning to maximize your Celigo knowledge.</span></span></a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3863-0-2">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-5453 nolink" id="mega-menu-item-5453"><a class="mega-menu-link" href="#">Explore<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5456" id="mega-menu-item-5456"><a class="mega-menu-link" href="https://www.celigo.com/blog/">Blog</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-8989" id="mega-menu-item-8989"><a class="mega-menu-link" href="https://www.celigo.com/customer-stories/">Customer Success Stories</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5455" id="mega-menu-item-5455"><a class="mega-menu-link" href="https://www.celigo.com/articles/">Articles</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5458" id="mega-menu-item-5458"><a class="mega-menu-link" href="https://www.celigo.com/ebooks/">Ebooks</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5460" id="mega-menu-item-5460"><a class="mega-menu-link" href="https://www.celigo.com/webinars/">Webinars</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-5459" id="mega-menu-item-5459"><a class="mega-menu-link" href="https://www.celigo.com/events/">Events</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-21571" id="mega-menu-item-21571"><a class="mega-menu-link" href="https://www.celigo.com/video-resources/">Videos</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-featured-content-block mega-menu-columns-2-of-11 featured-content-block" style="--span:2" id="mega-menu-3863-0-3">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-3" id="mega-menu-item-custom_html-3"><div class="textwidget custom-html-widget"><div class="menu-featured-post"><div class="menu-featured-post-image"><img src="https://www.celigo.com/wp-content/uploads/2024/04/d86c2d34693da0a0da1cb016cab92e3c-e1714081948805.jpeg" alt="Celigo software on laptop"></div><div class="featured-post-title"><a href="https://www.celigo.com/blog/celigo-may-2025-release/"><h4>Celigo Platform May 2025 Release</h4></a></div><div class="featured-post-description">Learn about what&#039;s new in the Celigo Platform</div><div class="featured-post-call-to-action">    <a href="https://www.celigo.com/blog/celigo-may-2025-release/" class="btn btn-arrow" >
+        <span class="text">Read the release</span>
+    </a>
+    </div></div></div></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class="mega-has-featured mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-menu-grid mega-align-bottom-left mega-menu-grid mega-menu-item-3864 has-featured" id="mega-menu-item-3864"><a class="mega-menu-link" href="/partners/" aria-expanded="false" tabindex="0">Partners<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu" role='presentation'>
+<li class="mega-menu-row" id="mega-menu-3864-0">
+	<ul class="mega-sub-menu" style='--columns:11' role='presentation'>
+<li class="mega-menu-column mega-menu-columns-3-of-11" style="--span:3" id="mega-menu-3864-0-0">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-5" id="mega-menu-item-text-5"><h4 class="mega-block-title">Partners</h4>			<div class="textwidget"><p>Help your customers transform their businesses with cutting-edge integration.</p>
+</div>
+		</li><li class="mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-5" id="mega-menu-item-custom_html-5"><div class="textwidget custom-html-widget"><a href="https://partners.celigo.com/" target="_blank" class="btn btn-partner btn-primary">Partner Portal Login</a></div></li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3864-0-1">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-5469 nolink" id="mega-menu-item-5469"><a class="mega-menu-link" href="#">Become a Partner<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-23686" id="mega-menu-item-23686"><a class="mega-menu-link" href="/partners/">Partner Program Overview</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3864-0-2">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-5468 nolink" id="mega-menu-item-5468"><a class="mega-menu-link" href="#">Partner Types<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-23690" id="mega-menu-item-23690"><a class="mega-menu-link" href="/partners/system-integrators/">System Integrators</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-23689" id="mega-menu-item-23689"><a class="mega-menu-link" href="/partners/alliances/">Alliances</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-23691" id="mega-menu-item-23691"><a class="mega-menu-link" href="/partners/private-equity/">Private Equity</a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-featured-content-block mega-menu-columns-2-of-11 featured-content-block" style="--span:2" id="mega-menu-3864-0-3">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-4" id="mega-menu-item-custom_html-4"><div class="textwidget custom-html-widget"><div class="menu-featured-post"><div class="menu-featured-post-image"><img src="https://www.celigo.com/wp-content/uploads/2025/02/tech-spotlight-promo.webp" alt=""></div><div class="featured-post-title"><a href="https://celigo.registration.goldcast.io/series/fbdf0281-685c-42e8-a3e1-ab78b1a19560"><h4>Tech Spotlight Webinar Series</h4></a></div><div class="featured-post-description">Join us on the first Tuesday of each month</div><div class="featured-post-call-to-action">    <a href="https://celigo.registration.goldcast.io/series/fbdf0281-685c-42e8-a3e1-ab78b1a19560" target="_blank" class="btn btn-arrow" >
+        <span class="text">Register now</span>
+    </a>
+    </div></div></div></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-menu-grid mega-align-bottom-left mega-menu-grid mega-menu-item-3865" id="mega-menu-item-3865"><a class="mega-menu-link" href="/customer-experience/" aria-expanded="false" tabindex="0">Services & Support<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu" role='presentation'>
+<li class="mega-menu-row" id="mega-menu-3865-0">
+	<ul class="mega-sub-menu" style='--columns:11' role='presentation'>
+<li class="mega-menu-column mega-menu-columns-3-of-11" style="--span:3" id="mega-menu-3865-0-0">
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-widget widget_text mega-menu-item-text-6" id="mega-menu-item-text-6"><h4 class="mega-block-title">Services &#038; Support</h4>			<div class="textwidget"><p>Wherever you are in your integration journey, our expert teams are here to help you.</p>
+</div>
+		</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3865-0-1">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-5473 nolink" id="mega-menu-item-5473"><a class="mega-menu-link" href="#">Services<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-description mega-menu-item-5465" id="mega-menu-item-5465"><a class="mega-menu-link" href="https://www.celigo.com/customer-experience/"><span class="mega-description-group"><span class="mega-menu-title">Customer Experience</span><span class="mega-menu-description">Explore the services, support, and tools that will help you on your automation journey.</span></span></a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-description mega-menu-item-5476" id="mega-menu-item-5476"><a class="mega-menu-link" href="https://www.celigo.com/customer-success-plan/"><span class="mega-description-group"><span class="mega-menu-title">Customer Success Management</span><span class="mega-menu-description">Integrate like a pro with a tailored success plan covering adoption, support, and maintenance.</span></span></a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-description mega-menu-item-14877" id="mega-menu-item-14877"><a class="mega-menu-link" href="https://www.celigo.com/professional-services/"><span class="mega-description-group"><span class="mega-menu-title">Professional Services</span><span class="mega-menu-description">Learn about a range of implementation services to help you succeed.</span></span></a></li>			</ul>
+</li>		</ul>
+</li><li class="mega-menu-column mega-menu-columns-2-of-11" style="--span:2" id="mega-menu-3865-0-2">
+		<ul class="mega-sub-menu">
+<li class="mega-nolink mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-5474 nolink" id="mega-menu-item-5474"><a class="mega-menu-link" href="#">Support<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5477" id="mega-menu-item-5477"><a target="_blank" class="mega-menu-link" href="https://docs.celigo.com/hc/en-us/requests/new">File a Ticket</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-5478" id="mega-menu-item-5478"><a target="_blank" class="mega-menu-link" href="https://docs.celigo.com/hc/en-us">Help Center</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-description mega-menu-item-5479" id="mega-menu-item-5479"><a target="_blank" class="mega-menu-link" href="https://connective.celigo.com/"><span class="mega-description-group"><span class="mega-menu-title">Celigo Connective</span><span class="mega-menu-description">A friendly user community for builders to ask questions and share knowledge.</span></span></a></li>			</ul>
+</li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-hide-on-desktop mega-menu-item-10171" id="mega-menu-item-10171"><a class="mega-menu-link" href="https://www.celigo.com/contact-us/" tabindex="0">Contact Us</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-hide-on-desktop mega-disable-link mega-menu-item-10172" id="mega-menu-item-10172"><a class="mega-menu-link" tabindex="0" aria-expanded="false" role="button">Sign In<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-10173" id="mega-menu-item-10173"><a target="_blank" class="mega-menu-link" href="https://integrator.io/signin">US</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-10174" id="mega-menu-item-10174"><a target="_blank" class="mega-menu-link" href="https://eu.integrator.io/signin">EU</a></li></ul>
+</li><li class="mega-menu-search mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-35299 menu-search" id="mega-menu-item-35299"><a class="mega-menu-link" href="#" tabindex="0">Search</a></li></ul></div>							</nav><!-- #site-navigation -->
+							<div class="header-buttons">
+																											<a href="https://www.celigo.com/request-a-demo/" target="" class="btn btn-primary btn-primary--sm">Get a demo</a>
+																			<a href="https://integrator.io/signup" target="_blank" class="btn btn-primary btn-primary--sm">Try for free</a>
+																									<div class="login-nav">
+								<div id="mega-menu-wrap-login" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-login" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="slide_right" data-effect-speed-mobile="200" data-panel-width=".nav-bar" data-panel-inner-width=".container" data-mobile-force-width="false" data-second-click="go" data-document-click="disabled" data-vertical-behaviour="standard" data-breakpoint="1215" data-unbind="true" data-mobile-state="collapse_all" data-mobile-direction="vertical" data-hover-intent-timeout="300" data-hover-intent-interval="100" data-overlay-desktop="false" data-overlay-mobile="false"><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-35296" id="mega-menu-item-35296"><a class="mega-menu-link" href="#" aria-expanded="false" tabindex="0">Sign In<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-35297" id="mega-menu-item-35297"><a class="mega-menu-link" href="https://integrator.io/signin">US</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-35298" id="mega-menu-item-35298"><a class="mega-menu-link" href="https://eu.integrator.io/signin">EU</a></li></ul>
+</li></ul></div>							</div>
+							</div>
+						</div>
+					</div><!-- .main-header -->
+				</div>
+				<div class="mobile-search">
+					<link rel='stylesheet' id='searchwp-forms-css' href='https://www.celigo.com/wp-content/plugins/searchwp/assets/css/frontend/search-forms.min.css?ver=4.4.0' media='all' />
+		
+				<form id="searchwp-form-1" role="search" method="get" class="searchwp-form" action="https://www.celigo.com/">
+			<input type="hidden" name="swp_form[form_id]" value="1">
+			<div class="swp-flex--col swp-flex--wrap swp-flex--gap-md">
+				<div class="swp-flex--row swp-items-stretch swp-flex--gap-md">
+					<div class="searchwp-form-input-container swp-items-stretch">
+						
+																		<input type="search"
+                               class="swp-input--search swp-input"
+						       placeholder=""
+						       value=""
+                               name="s"
+						       title=""
+							                        />
+					</div>
+
+											<input type="submit" class="search-submit swp-button" value="Search"/>
+					
+				</div>
+
+				
+							</div>
+					</form>
+						</div>
+			</header><!-- #masthead -->
+			<div class="desktop-search">
+						
+				<form id="searchwp-form-1" role="search" method="get" class="searchwp-form" action="https://www.celigo.com/">
+			<input type="hidden" name="swp_form[form_id]" value="1">
+			<div class="swp-flex--col swp-flex--wrap swp-flex--gap-md">
+				<div class="swp-flex--row swp-items-stretch swp-flex--gap-md">
+					<div class="searchwp-form-input-container swp-items-stretch">
+						
+																		<input type="search"
+                               class="swp-input--search swp-input"
+						       placeholder=""
+						       value=""
+                               name="s"
+						       title=""
+							                        />
+					</div>
+
+											<input type="submit" class="search-submit swp-button" value="Search"/>
+					
+				</div>
+
+				
+							</div>
+					</form>
+					</div>
+		
+<main id="primary" class="site-main">
+
+	
+<article id="post-3362" class="post-3362 page type-page status-publish hentry">
+	<div class="entry-content">
+		
+<section class="body-layout-5a bg-karl text-celigo-black padding-top-small padding-bottom-small" id="hero" >
+    <div class="container align-left">
+        <div class="body-layout-5a__content">
+            
+                            <div class="body-layout-5a__headline">
+                    
+    <h1 >Celigo Platform</h1>
+
+                </div>
+            
+                            <div class="body-layout-5a__subhead wysiwyg"><p>Celigo is the leading intelligent automation platform delivering collaboration with built-in control, reusable building blocks, 95% auto error resolution, and predictable pricing. <strong>Go beyond integration. Go Celigo.</strong></p>
+<p><em><a href="https://www.celigo.com/lp/celigo-named-visionary-2025/">Read the Gartner® Magic Quadrant™ for iPaaS report</a></em></p>
+</div>
+            
+                                                <div class="body-layout-5a__buttons">
+                                                                                        <a href="https://integrator.io/signup" target="_blank" class="btn btn-primary" >
+        <span class="text">Try for free</span>
+    </a>
+                                                                                                                        <a href="https://www.celigo.com/request-a-demo/" class="btn btn-secondary" >
+        <span class="text">Get a demo</span>
+    </a>
+                                                                            </div>
+                                    </div>
+                                        <div class="body-layout-5a__image autoheight">
+                        <img decoding="async" src="https://www.celigo.com/wp-content/uploads/2025/05/gartner-ipaas-grid-resized.jpg" alt="" class="body-layout-5a__image" width="690"  />
+                    </div>
+                                                    </div>
+</section>
+
+
+<section class="body-layout-5e bg-celigo-white text-celigo-black  padding-top-medium padding-bottom-xsmall wp-elements-9a3d6253f7665b430ffb64a5d9a2cb8d" >
+    <div class="container __content align-center">
+        <div class="body-layout-5e__content align-center">
+                            
+                            <div class="body-layout-5e__headline">
+                    <div class="body-layout-5e__headline">
+                        
+    <h2 >Intelligent Automation Platform</h2>
+
+                    </div>
+                </div>
+            
+                            <div class="body-layout-5e__subhead __content wysiwyg align-center"><p>Celigo combines power and simplicity, includes cutting-edge AI tools, and provides prebuilt integrations designed to solve whatever business challenges come your way.</p>
+</div>
+            
+                                                            </div>
+    </div>
+</section>
+
+
+<section class="body-layout-5a bg-celigo-white text-celigo-black padding-top-small padding-bottom-small" id="z-pattern" >
+    <div class="container align-right">
+        <div class="body-layout-5a__content">
+            
+                            <div class="body-layout-5a__headline">
+                    
+    <h3 >Unified platform</h3>
+
+                </div>
+            
+                            <div class="body-layout-5a__subhead wysiwyg"><p>Celigo provides a centralized integration platform that empowers both business users and IT teams to collaborate, automate, and manage integrations with a shared toolset and interface.</p>
+</div>
+            
+                                                </div>
+                                        <div class="body-layout-5a__image autoheight">
+                        <img decoding="async" src="https://www.celigo.com/wp-content/uploads/2025/01/celigo-platform-diagram-2.svg" alt="" class="body-layout-5a__image" width="690"  />
+                    </div>
+                                                    </div>
+</section>
+
+
+<section class="body-layout-5a bg-celigo-white text-celigo-black padding-top-small padding-bottom-small" >
+    <div class="container align-left">
+        <div class="body-layout-5a__content">
+            
+                            <div class="body-layout-5a__headline">
+                    
+    <h3 >Reusable building blocks</h3>
+
+                </div>
+            
+                            <div class="body-layout-5a__subhead wysiwyg"><p>Leverage prebuilt connectors, templates, and APIs to build faster and scale smarter — so teams can launch automations in hours, not weeks.</p>
+</div>
+            
+                                                </div>
+                                        <div class="body-layout-5a__image autoheight">
+                        <img decoding="async" src="https://www.celigo.com/wp-content/uploads/2024/05/Celigo-Website-2024-Platform-Page-Features-Marketplace_v1a-Animated-1080x665-2.gif" alt="Marketplace UI" class="body-layout-5a__image" width="690"  />
+                    </div>
+                                                    </div>
+</section>
+
+
+<section class="body-layout-5a bg-celigo-white text-celigo-black padding-top-small padding-bottom-small" >
+    <div class="container align-right">
+        <div class="body-layout-5a__content">
+            
+                            <div class="body-layout-5a__headline">
+                    
+    <h3 >AI Error Resolution</h3>
+
+                </div>
+            
+                            <div class="body-layout-5a__subhead wysiwyg"><p>Automatically resolve over 95% of integration errors without human intervention. Celigo’s AI-driven error handling keeps your workflows running smoothly and reduces operational overhead.</p>
+</div>
+            
+                                                </div>
+                                        <div class="body-layout-5a__image autoheight">
+                        <img decoding="async" src="https://www.celigo.com/wp-content/uploads/2024/05/Celigo-Website-2024-Platform-Page-Features-Monitor_v1a-Animated-1080x665_vF-Optimized.gif" alt="Monitor and operate UI" class="body-layout-5a__image" width="690"  />
+                    </div>
+                                                    </div>
+</section>
+
+
+<section class="body-layout-5a bg-celigo-white text-celigo-black padding-top-small padding-bottom-medium" >
+    <div class="container align-left">
+        <div class="body-layout-5a__content">
+            
+                            <div class="body-layout-5a__headline">
+                    
+    <h3 >Collaboration with control</h3>
+
+                </div>
+            
+                            <div class="body-layout-5a__subhead wysiwyg"><p>Enable business teams to automate faster while IT governs connectivity, access, and deployment standards.</p>
+</div>
+            
+                                                </div>
+                                        <div class="body-layout-5a__image autoheight">
+                        <img decoding="async" src="https://www.celigo.com/wp-content/uploads/2024/05/Celigo-Website-2024-Platform-Page-Features-Governance_v1a-Animated-1080x665-1.gif" alt="Governance and security UI" class="body-layout-5a__image" width="690"  />
+                    </div>
+                                                    </div>
+</section>
+
+
+<section class="body-layout-5e bg-neutral-20 text-celigo-black  padding-top-medium padding-bottom-small wp-elements-c7cb0a8d93aeea8c1515df9817b6347f" >
+    <div class="container __content align-center">
+        <div class="body-layout-5e__content align-center">
+                            
+                            <div class="body-layout-5e__headline">
+                    <div class="body-layout-5e__headline">
+                        
+    <h2 >Go beyond integration with Celigo</h2>
+
+                    </div>
+                </div>
+            
+                            <div class="body-layout-5e__subhead __content wysiwyg align-center"><p>Avoid the burden of fragmented tools and bolt-on platforms. With Celigo, it’s all in one place — from application and data integrations to building APIs or managing trading partner EDI flows, all within a single, unified platform. Whether you&#8217;re syncing SaaS apps, automating file-based processes, or managing partner transactions, Celigo delivers the flexibility and scalability to handle it all. </p>
+</div>
+            
+                                                            </div>
+    </div>
+</section>
+
+
+<section class="body-layout-5v bg-neutral-20 text-celigo-black  padding-top-none padding-bottom-medium" >
+    <div class="container">
+                <div class="body-layout-5v__columns">
+            <div class="body-layout-5v__col-1">
+                                                                    <div class="body-layout-5v__col-1-header">
+                                
+    <h3 >Application Integration</h3>
+
+                            </div>
+                                                                            <div class="body-layout-5v__col-1-body wysiwyg"><p>Automate and orchestrate business processes across applications with Celigo’s robust iPaaS. From ERP and CRM to HR and ecommerce, Celigo makes it easy to connect and integrate cloud and on-premises applications with prebuilt connectors and a low-code interface.</p>
+</div>
+                                                                            </div>
+            <div class="body-layout-5v__col-2">
+                                                                    <div class="body-layout-5v__col-2-header">
+                                
+    <h3 >API Management</h3>
+
+                            </div>
+                                                                            <div class="body-layout-5v__col-2-body wysiwyg"><p>Build, secure, socialize, and monitor APIs built on top of your integrations and business systems. Celigo&#8217;s API Management empowers you to turn integration flows into reusable APIs, share data externally or internally, and control access with policy-based governance.</p>
+</div>
+                                                                            <a href="https://www.celigo.com/platform/api-management/" class="body-layout-5v__cta" target="_self">
+                                Learn more                                <img decoding="async" width="32" height="19" src="https://www.celigo.com/wp-content/themes/celigo/images/arrow-black.svg" alt="Arrow">
+                            </a>
+                                                    </div>
+            <div class="body-layout-5v__col-3">
+                                                                    <div class="body-layout-5v__col-3-header">
+                                
+    <h3 >B2B Manager for EDI</h3>
+
+                            </div>
+                                                                            <div class="body-layout-5v__col-3-body wysiwyg"><p>Simplify EDI by managing trading partner relationships and EDI flows in the same platform as your application integrations. Celigo’s B2B Manager for EDI enables you to onboard partners quickly, support multiple EDI formats, and maintain full visibility into transaction health.</p>
+</div>
+                                                                            <a href="https://www.celigo.com/platform/b2b-manager/" class="body-layout-5v__cta" target="_self">
+                                Learn more                                <img decoding="async" width="32" height="19" src="https://www.celigo.com/wp-content/themes/celigo/images/arrow-black.svg" alt="Arrow">
+                            </a>
+                                                    </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="body-layout-5v bg-neutral-20 text-celigo-black  padding-top-none padding-bottom-medium" >
+    <div class="container">
+                <div class="body-layout-5v__columns">
+            <div class="body-layout-5v__col-1">
+                                                                    <div class="body-layout-5v__col-1-header">
+                                
+    <h3 >AI Agents and Skills</h3>
+
+                            </div>
+                                                                            <div class="body-layout-5v__col-1-body wysiwyg"><p>Design and orchestrate AI agents and skills that bring together LLMs, real-time data, system integration, and human-in-the-loop controls so your enterprise can act faster, smarter, and more reliably at scale.</p>
+</div>
+                                                                            </div>
+            <div class="body-layout-5v__col-2">
+                                                                    <div class="body-layout-5v__col-2-header">
+                                
+    <h3 >Human Workflow Approvals</h3>
+
+                            </div>
+                                                                            <div class="body-layout-5v__col-2-body wysiwyg"><p>Automate business processes that require human input and approvals without leaving your core apps. Celigo lets you embed approval workflows within integration flows, enabling conditional logic, exception handling, and role-based routing across departments.</p>
+</div>
+                                                                            </div>
+            <div class="body-layout-5v__col-3">
+                                                                    <div class="body-layout-5v__col-3-header">
+                                
+    <h3 >Data Ingestion and Reverse ETL</h3>
+
+                            </div>
+                                                                            <div class="body-layout-5v__col-3-body wysiwyg"><p>Unify and move data across systems from ingestion to action using Celigo’s scalable data integration engine. Ingest high-volume data from files, APIs, or databases and push insights back into operational systems to power real-time decisions.</p>
+</div>
+                                                                            <a href="https://www.celigo.com/solutions/data-warehouse-automation/" class="body-layout-5v__cta" target="_self">
+                                Learn more                                <img decoding="async" width="32" height="19" src="https://www.celigo.com/wp-content/themes/celigo/images/arrow-black.svg" alt="Arrow">
+                            </a>
+                                                    </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="custom-module-6g bg-celigo-white text-celigo-black padding-top-medium padding-bottom-small" >
+    <div class="container ">
+        <div class="custom-module-6g__content">
+                                        <div class="custom-module-6g__headline">
+                    
+    <h2 >Connect anything. Automate intelligently.</h2>
+
+                </div>
+            
+                            <div class="custom-module-6g__subhead wysiwyg"><p>Flexible, customizable, and secure, Celigo empowers your teams to work smarter and faster—now and as your business evolves.</p>
+</div>
+            
+                                                <div class="custom-module-6g__buttons">
+                                                                                                </div>
+                                                </div>
+                    <div class="custom-module-6g__blocks">
+                                    <div class="custom-module-6g__block">
+                                                    <div class="custom-module-6g__block-header">
+                                
+    <h3 >Connectivity</h3>
+
+                            </div>
+                                                                            <div class="custom-module-6g__block-subheader wysiwyg"><p>Quickly and easily integrate hundreds of thousands of apps and services through a wide range of prebuilt templates and an API-based framework. Take integration even further and enhance overall operational efficiency with Connector SDKs, on-premise agents, and universal adaptors.</p>
+</div>
+                                                                            <a href="https://www.celigo.com/integrations/" class="custom-module-6g__cta" target="_self">
+                                Integration Marketplace                                <img decoding="async" width="32" height="19" src="https://www.celigo.com/wp-content/themes/celigo/images/arrow-black.svg" alt="Arrow">
+                            </a>
+                                            </div>
+                                    <div class="custom-module-6g__block">
+                                                    <div class="custom-module-6g__block-header">
+                                
+    <h3 >Governance</h3>
+
+                            </div>
+                                                                            <div class="custom-module-6g__block-subheader wysiwyg"><p>Celigo ensures governance through role-based access control, audit trails, and automated policy enforcement to protect sensitive data, support regulatory compliance, and maintain trust in AI-driven processes.</p>
+</div>
+                                                                    </div>
+                                    <div class="custom-module-6g__block">
+                                                    <div class="custom-module-6g__block-header">
+                                
+    <h3 >Scale</h3>
+
+                            </div>
+                                                                            <div class="custom-module-6g__block-subheader wysiwyg"><p>Celigo is built on secure, cloud-native AWS infrastructure with elastic scalability and optional dedicated VPCs, enabling seamless growth in integrations, data volume, and workflows while keeping costs predictable and total cost of ownership low.</p>
+</div>
+                                                                    </div>
+                                    <div class="custom-module-6g__block">
+                                                    <div class="custom-module-6g__block-header">
+                                
+    <h3 >Community</h3>
+
+                            </div>
+                                                                            <div class="custom-module-6g__block-subheader wysiwyg"><p>The Celigo Connective is a dynamic community for all users to collaborate, share insights, and stay updated on Celigo&#8217;s platform.</p>
+</div>
+                                                                            <a href="https://connective.celigo.com/" class="custom-module-6g__cta" target="_blank">
+                                Explore our community                                <img decoding="async" width="32" height="19" src="https://www.celigo.com/wp-content/themes/celigo/images/arrow-black.svg" alt="Arrow">
+                            </a>
+                                            </div>
+                            </div>
+            </div>
+</section>
+
+
+<section class="body-layout-5a bg-golden text-celigo-black padding-top-medium padding-bottom-medium" >
+    <div class="container align-left">
+        <div class="body-layout-5a__content">
+                            <div class="body-layout-5a__eyebrow eyebrow-text"><p>Webinar Series</p>
+</div>
+            
+                            <div class="body-layout-5a__headline">
+                    
+    <h2 >Integration Bytes</h2>
+
+                </div>
+            
+                            <div class="body-layout-5a__subhead wysiwyg"><h4>Transform Your Integrations: Discover Celigo&#8217;s iPaaS Platform</h4>
+<p>Join hundreds of automation leaders who are already transforming their operations. In just 30 minutes, you’ll see what your competitors might already be deploying. We’ll cover key features and capabilities teams need to accelerate integration projects.</p>
+</div>
+            
+                                                <div class="body-layout-5a__buttons">
+                                                                                        <a href="https://celigo.registration.goldcast.io/series/1c1a56bd-5d85-4db4-9ece-34c97e0a709b?utm_source=website&#038;utm_medium=banner&#038;utm_campaign=Celigo-Integration_Bytes_series-Goldcast&#038;utm_content=platform_page" target="_blank" class="btn btn-primary" >
+        <span class="text">Sign up</span>
+    </a>
+                                                                            </div>
+                                    </div>
+                                        <div class="body-layout-5a__image">
+                        <img fetchpriority="high" decoding="async" src="https://www.celigo.com/wp-content/uploads/2024/05/two-people-one-computer-with-code.png" alt="" class="body-layout-5a__image" width="690" height="524" />
+                    </div>
+                                                    </div>
+</section>
+
+
+<style> #z-pattern .body-layout-5a__content {
+    width: 40%;
+}
+
+#z-pattern .body-layout-5a__image.autoheight {
+    width: 60%;
+} 
+
+#hero .body-layout-5a__image img {width:80% !important;}.body-layout-5d__tab-image img{object-fit:contain !important;}.body-layout-5a__image.autoheight{text-align:center;}</style><script>jQuery('.body-layout-5a__image img').wrap('<a href="https://www.celigo.com/lp/celigo-named-visionary-2025/"></a>');</script>
+
+
+
+<section class="custom-module-6u bg-celigo-white text-celigo-black" >
+    <div>
+                    <div class="custom-module-6u__reviews">
+                            </div>
+            </div>
+</section>
+
+
+<p></p>
+	</div><!-- .entry-content -->
+</article><!-- #post-3362 -->
+</main><!-- #main -->
+
+
+<footer id="colophon" class="site-footer footer-9a bg-celigo-black">
+    <div class="container">
+        <div class="footer-9a__footer-top">
+            <div>
+                                    <div><span class="footer-9a__header">Start your 30-day free trial</span></div>
+                                                    <div><p class="footer-9a__subhead">Unlimited access to the Celigo platform for 30 days</p></div>
+                            </div>
+            <div>
+                                    <div class="footer-9a__buttons">
+                                                                                        <a href="https://integrator.io/signup" class="btn btn-primary" >
+        <span class="text">Try for free</span>
+    </a>
+                                                                                                                        <a href="https://www.celigo.com/request-a-demo/" class="btn btn-secondary" >
+        <span class="text">Get a demo</span>
+    </a>
+                                                                            </div>
+                            </div>
+        </div>
+        <div class="footer-9a__grid">
+            <div class="footer-9a__info-container">
+                <div class="footer-9a__logo-container">
+                                            <img src="https://www.celigo.com/wp-content/uploads/2024/04/celigo-footer-logo.png" alt="Celigo footer logo" width="112" height="42" />
+                                    </div>
+                                    <div>
+                        <p class="footer-9a__company-info text-body-3">Celigo is the leading intelligent automation platform that delivers collaboration with built-in control, reusable building blocks, 95% auto error resolution, and predictable pricing. <b>Go beyond integration. Go Celigo.</b></p>
+                    </div>
+                                                    <div>
+                        <p class="footer-9a__company-address">3 Lagoon Dr.<br />
+Suite 130<br />
+Redwood City, CA 94065</p>
+                    </div>
+                                                    <div class="footer-9a__contact-details">
+                                                                                                                    <div class="contact-detail">
+                                    <img src="https://www.celigo.com/wp-content/uploads/2024/04/footer-number.png" alt="" class="contact-icon" width="20" height="20">
+                                    <span class="contact-info">(650) 579-0210</span>
+                                </div>
+                                                                                                                                                <div class="contact-detail">
+                                    <img src="https://www.celigo.com/wp-content/uploads/2024/04/footer-email.png" alt="" class="contact-icon" width="20" height="20">
+                                    <span class="contact-info"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7e171018113e1d1b12171911501d1113">[email&#160;protected]</a></span>
+                                </div>
+                                                                        </div>
+                            </div>
+                            <div class="footer-9a__menu">
+                    <div class="footer-9a__menu-header h3">Platform</div>
+                    <nav class="menu-platform-container"><ul id="menu-platform" class=""><li id="menu-item-5024" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3362 current_page_item menu-item-5024"><a href="https://www.celigo.com/platform/" aria-current="page">Celigo Platform</a></li>
+<li id="menu-item-5025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5025"><a href="https://www.celigo.com/why-celigo/">Why Celigo?</a></li>
+<li id="menu-item-5028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5028"><a href="https://www.celigo.com/platform/ai-assistants/">Celigo AI Assistants</a></li>
+<li id="menu-item-22745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22745"><a href="https://www.celigo.com/platform/b2b-manager/">B2B Manager</a></li>
+<li id="menu-item-5027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5027"><a href="https://www.celigo.com/platform/api-management/">API Management</a></li>
+<li id="menu-item-5035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5035"><a href="https://www.celigo.com/platform/error-management/">Error Management</a></li>
+<li id="menu-item-31155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31155"><a href="https://www.celigo.com/platform/celigo-private-cloud/">Celigo Private Cloud</a></li>
+<li id="menu-item-36995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36995"><a href="https://www.celigo.com/platform/pricing/">Pricing</a></li>
+<li id="menu-item-16670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16670"><a href="https://www.cloudextend.io/">CloudExtend</a></li>
+</ul></nav>                </div>
+                                        <div class="footer-9a__menu">
+                    <div class="footer-9a__menu-header h3">Integrations</div>
+                    <nav class="menu-integrations-container"><ul id="menu-integrations" class=""><li id="menu-item-2533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533"><a href="https://www.celigo.com/integrations/salesforce/">Salesforce</a></li>
+<li id="menu-item-2534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2534"><a href="https://www.celigo.com/integrations/microsoft-dynamics-365/">Microsoft Dynamics 365</a></li>
+<li id="menu-item-2532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2532"><a href="https://www.celigo.com/integrations/netsuite/">Oracle NetSuite</a></li>
+<li id="menu-item-2535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2535"><a href="https://www.celigo.com/integrations/sap/">SAP</a></li>
+<li id="menu-item-2536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2536"><a href="https://www.celigo.com/integrations/amazon/">Amazon</a></li>
+<li id="menu-item-2537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2537"><a href="https://www.celigo.com/integrations/shopify/">Shopify</a></li>
+<li id="menu-item-2538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2538"><a href="https://www.celigo.com/integrations/snowflake/">Snowflake</a></li>
+<li id="menu-item-5040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5040"><a href="https://www.celigo.com/integrations/acumatica/">Acumatica</a></li>
+<li id="menu-item-5039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5039"><a href="https://www.celigo.com/integrations/adp/">ADP</a></li>
+<li id="menu-item-5038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5038"><a href="https://www.celigo.com/integrations/">All Integrations</a></li>
+</ul></nav>                </div>
+                                        <div class="footer-9a__menu">
+                    <div class="footer-9a__menu-header h3">Solutions</div>
+                    <nav class="menu-solutions-container"><ul id="menu-solutions" class=""><li id="menu-item-2541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2541"><a href="https://www.celigo.com/solutions/ecommerce-automation/">Ecommerce</a></li>
+<li id="menu-item-2540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2540"><a href="https://www.celigo.com/solutions/finance-accounting-automation/">Finance</a></li>
+<li id="menu-item-23050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23050"><a href="/solutions/data-warehouse-automation/">Data Warehouse and Analytics</a></li>
+<li id="menu-item-2539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2539"><a href="https://www.celigo.com/solutions/it-process-automation/">IT</a></li>
+<li id="menu-item-23053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23053"><a href="/solutions/supply-chain-integration-manufacturing-wholesale/">Supply Chain</a></li>
+<li id="menu-item-31198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31198"><a href="https://www.celigo.com/solutions/product-automation/">Product</a></li>
+<li id="menu-item-23051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23051"><a href="/solutions/revops-integration-automation/">RevOps</a></li>
+<li id="menu-item-23052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23052"><a href="/solutions/peopleops-integration-automation/">PeopleOps</a></li>
+<li id="menu-item-2545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2545"><a href="https://www.celigo.com/solutions/ipaas-for-support/">Customer Support</a></li>
+<li id="menu-item-5042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5042"><a href="https://www.celigo.com/solutions/">All Solutions</a></li>
+</ul></nav>                </div>
+                                        <div class="footer-9a__menu">
+                    <div class="footer-9a__menu-header h3">Resources</div>
+                    <nav class="menu-resources-container"><ul id="menu-resources" class=""><li id="menu-item-5047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5047"><a href="https://www.celigo.com/blog/">Blog</a></li>
+<li id="menu-item-16854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16854"><a href="https://www.celigo.com/customer-stories/">Customer Success Stories</a></li>
+<li id="menu-item-5048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5048"><a href="https://www.celigo.com/articles/">Articles</a></li>
+<li id="menu-item-5045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5045"><a href="https://www.celigo.com/ebooks/">Ebooks</a></li>
+<li id="menu-item-5043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5043"><a href="https://www.celigo.com/webinars/">Webinars</a></li>
+<li id="menu-item-5044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5044"><a href="https://www.celigo.com/events/">Events</a></li>
+<li id="menu-item-21572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21572"><a href="https://www.celigo.com/builders-hub/">Builder’s Hub</a></li>
+<li id="menu-item-21573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21573"><a href="https://www.celigo.com/video-resources/">Videos</a></li>
+<li id="menu-item-31203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31203"><a href="https://training.celigo.com/">Celigo U: Training and Certification</a></li>
+</ul></nav>                </div>
+                                        <div class="footer-9a__menu">
+                    <div class="footer-9a__menu-header h3">Company</div>
+                    <nav class="menu-company-container"><ul id="menu-company" class=""><li id="menu-item-5050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5050"><a href="https://www.celigo.com/about-us/">About Celigo</a></li>
+<li id="menu-item-27779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27779"><a href="https://www.celigo.com/core-values/">Core Values</a></li>
+<li id="menu-item-5051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5051"><a href="https://www.celigo.com/about-us/leadership/">Leadership</a></li>
+<li id="menu-item-23687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23687"><a href="/partners/">Partner Programs</a></li>
+<li id="menu-item-5052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5052"><a href="https://www.celigo.com/news/">In the News</a></li>
+<li id="menu-item-5053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5053"><a href="https://www.celigo.com/careers/">Careers</a></li>
+<li id="menu-item-5054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5054"><a href="https://www.celigo.com/about-us/dei/">Diversity, Equity, and Inclusion</a></li>
+<li id="menu-item-5057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5057"><a href="https://www.celigo.com/contact-us/">Contact</a></li>
+</ul></nav>                <a href="https://www.g2.com/products/celigo/reviews?utm_source=review-widget" title="Read reviews of Celigo on G2" target="_blank" style="opacity:1;"><img class="full-width" style="max-width: 200px" alt="Read Celigo reviews on G2" src="https://www.g2.com/products/celigo/widgets/stars?color=white&amp;type=read" /></a><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(a,b,c,d){window.fetch("https://www.g2.com/products/celigo/rating_schema.json").then(e=>e.json()).then(f=>{c=a.createElement(b);c.type="application/ld+json";c.text=JSON.stringify(f);d=a.getElementsByTagName(b)[0];d.parentNode.insertBefore(c,d);});})(document,"script");</script>
+                </div>
+                    </div>
+        <div class="footer-9a__footer-bottom">
+            <div class="bottom-container">
+                <div class="footer-9a__bottom-content">
+                    <div class="footer-9a__bottom-left">
+                        <div>
+                                                            <p class="footer-9a__copyright">© 2025 Celigo, Inc. All Rights Reserved.                                                                                                                                                                                <span class="line"> | </span><a href="https://www.celigo.com/privacy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+                                                                                                                                                                                    <span class="line"> | </span><a href="https://www.celigo.com/legal/security-privacy-compliance/" target="_blank" rel="noopener noreferrer">Security, Privacy, &amp; Compliance</a>
+                                                                                                                                                                                    <span class="line"> | </span><a href="https://www.celigo.com/legal/ccpa/" target="_blank" rel="noopener noreferrer">California Privacy Rights</a>
+                                                                                                                                                                                    <span class="line"> | </span><a href="https://www.celigo.com/terms-of-use/" target="_blank" rel="noopener noreferrer">Terms of Use</a>
+                                                                                                                                                                                    <span class="line"> | </span><a href="https://www.celigo.com/legal/" target="_blank" rel="noopener noreferrer">Legal Resources</a>
+                                                                                                                                </p>
+                            
+                        </div>
+                    </div>
+                    <div class="footer-9a__bottom-right">
+                        <div class="footer-9a__social">
+                                                    <div class="footer-9a__social-icons">
+                                                                                                                                                <a href="https://x.com/celigoinc" target="_blank" rel="noopener noreferrer" aria-label="x icon">
+                                            <img src="https://www.celigo.com/wp-content/uploads/2024/04/x-icon.png" alt="x icon" width="23" height="23">
+                                        </a>
+                                                                                                                                                                                    <a href="https://www.linkedin.com/company/celigo-inc" target="_blank" rel="noopener noreferrer" aria-label="Linkedin icon">
+                                            <img src="https://www.celigo.com/wp-content/uploads/2024/04/linkedin-icon.png" alt="Linkedin icon" width="23" height="23">
+                                        </a>
+                                                                                                                                                                                    <a href="https://www.youtube.com/channel/UCI7mNOr2sN3GfmvfCQozPpw" target="_blank" rel="noopener noreferrer" aria-label="YouTube Icon">
+                                            <img src="https://www.celigo.com/wp-content/uploads/2024/04/youtube-icon.png" alt="YouTube Icon" width="23" height="23">
+                                        </a>
+                                                                                                </div>
+                                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<script>
+    jQuery(document).ready(function($) {
+        const alignWide = document.querySelectorAll('div.wp-block-group')[0];
+        alignWide.insertAdjacentHTML('afterend', '<section class="search-results"></section>');
+    });
+
+    const cardWrappers = document.querySelectorAll('.entry-content > .body-layout-5n, .entry-content > .body-layout-5e:not(#dont-hide), .entry-content > .body-layout-5l');
+    const cards = document.querySelectorAll('.body-layout-5n__columns .body-layout-5n__column, .body-layout-5l__columns .body-layout-5l__column');
+
+    // 2. Prepare the data for Fuse
+    const fuseData = Array.from(cards).map(card => {
+        const contentSpan = card.querySelector('.body-layout-5n__column-header, h3, .body-layout-5l__column-header');
+
+        return {
+            element: card,
+            post_id: card.dataset.postId,
+            post_type: card.dataset.postType,
+            post_type_display: card.dataset.ptype,
+            imageUrl: card.dataset.imageUrl,
+            link: card.href,
+            title: contentSpan ? contentSpan.textContent : '',
+            // terms: JSON.stringify(card.dataset.terms.split(',')),
+            terms: card.dataset.terms.split(','),
+        }
+    });
+
+    console.log(fuseData);
+
+    // 3. Set up Fuse options
+    const fuseOptions = {
+        keys: ['title', 'link', 'terms'],
+        threshold: 0.4 // Adjust this value to make the search more or less strict
+    };
+
+    // 4. Initialize Fuse
+    const fuse = new Fuse(fuseData, fuseOptions);
+
+    // 5. Create a search function
+    function searchCards(searchTerm) {
+        if (searchTerm.trim() === '') {
+            // If search is empty, show all cards
+            document.querySelectorAll('.search-results')[0].innerHTML = '';
+            document.querySelectorAll('.search-results')[0].setAttribute('style', '');
+            cardWrappers.forEach(cardWrapper => cardWrapper.style.display = '');
+            cards.forEach(card => card.style.display = '');
+            return;
+        }
+
+        const results = fuse.search(searchTerm);
+
+        console.log(results);
+
+        // Hide all cards first
+        cardWrappers.forEach(cardWrapper => cardWrapper.style.display = 'none');
+
+        let searchResultsHTML = `<div class="container">` +
+            `<h1 style="font-size: 1.625rem; line-height: 2.125rem; margin-bottom: 3.0625rem;" class="page-title">Search results for: <span>"${searchTerm}"</span></h1>` +
+            `<div class="search-results__wrapper" style="display: flex; flex-direction: column; gap: 2rem;">`;
+
+            results.forEach((result) => {
+            searchResultsHTML += `<article style="border-radius: 8px; background: #fff; padding: 3.5625rem 3.25rem;" class="post-${result.item.post_id} ${result.item.post_type} type-${result.item.post_type} status-publish has-post-thumbnail hentry tag-netsuite-analytics-warehouse topic-product-how-to topic-product-releases">` +
+                `<a href="${result.item.link}" target="_blank">` +
+                `<header class="entry-header">` +
+                `<h2 style="font-size: 1.625rem; line-height: 2.125rem;" class="entry-title">${result.item.title}</h2>` +
+                `</header>` +
+                `</a>` +
+                `</article>`;
+        });
+
+        let searchCardsHTML = `<div class="container">` +
+        `<h1 style="font-size: 1.625rem; line-height: 2.125rem; margin-bottom: 3.0625rem;" class="page-title">Search results for: <span>"${searchTerm}"</span></h1>` +
+        `<div class="body-layout-5n__columns" style="flex-wrap: wrap">`;
+
+        results.forEach((result) => {
+            searchCardsHTML += `<a href="${result.item.link}" class="body-layout-5n__column" data-post-id="${result.item.post_id}" data-post-type="${result.item.post_type}">
+                <div class="body-layout-5n__column-body">
+                    <div class="body-layout-5n__column-image">
+                        <img fetchpriority="high" decoding="async" src="${result.item.imageUrl}" alt="" class="body-layout-5n__column-image--image" width="320" height="201">
+                    </div>
+                    <div class="body-layout-5n__column-content">
+                        <span class="body-layout-5n__column-header">${result.item.title}</span>
+                        <div class="body-layout-5n__column-cta cta">
+                            <span>
+                                <span class="clip-path">
+                                    <span>View ${result.item.post_type_display}</span>
+                                </span>
+                                <img decoding="async" src="/wp-content/themes/celigo/images/arrow-black.svg" alt="View blogs" width="32" height="19">
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </a>`;
+        })
+
+        if(results.length === 0)
+            searchCardsHTML +=  `<p>No results found.</p>`;
+
+        searchCardsHTML += `</div>` +
+            `</div>`;
+
+        const searchResultsContainer = document.querySelectorAll('.search-results')[0];
+        searchResultsContainer.innerHTML = searchCardsHTML;
+        searchResultsContainer.setAttribute('style', 'background: #f3f2f0; padding: 7.5rem 0');
+
+        console.log(results);
+
+        // Show only the matching cards
+        results.forEach(result => result.item.element.style.display = '');
+    }
+
+    // 6. Add event listener to your search input
+    const searchInput = document.querySelector('.fuse-search-input input.wp-block-search__input'); // Adjust the ID as needed
+    const searchButton = document.querySelector('.fuse-search-input .wp-block-search__button'); // Adjust the ID as needed
+    const searchForm = searchInput ? searchInput.closest('form') : null;
+
+    if(searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            e.preventDefault();
+            searchCards(e.target.value);
+        });
+
+        // Prevent form submission on Enter key press
+        searchInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                searchCards(e.target.value);
+            }
+        });
+    }
+
+    if (searchForm) {
+        searchForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            searchCards(searchInput.value);
+        });
+    }
+
+    // 7. Optional: Add a function to reset the search
+    function resetSearch() {
+        searchInput.value = '';
+        cards.forEach(card => card.style.display = '');
+        document.querySelectorAll('.search-results')[0].innerHTML = '';
+        document.querySelectorAll('.search-results')[0].setAttribute('style', '');
+        //cardWrappers.forEach(wrapper => wrapper.style.display = '');
+    }
+
+    function modifySearchResults() {
+        var results = document.querySelectorAll('.gsc-webResult');
+        results.forEach(function(result) {
+            var websiteName = result.querySelector('.gs-title');
+            var lastIndexOfCeligo = websiteName.textContent.lastIndexOf(' - Celigo');
+            if (lastIndexOfCeligo !== -1) {
+                websiteName.textContent = websiteName.textContent.substring(0, lastIndexOfCeligo);
+            }
+            var breadcrumb = result.querySelector('.gs-visibleUrl-breadcrumb');
+
+            // Remove the first span tag inside breadcrumb
+            var firstSpan = breadcrumb.querySelector('span');
+            var secondSpan = breadcrumb.querySelector('span:nth-child(2)');
+            secondSpan.textContent = secondSpan.textContent.replace(' › ', '');
+
+            console.log(secondSpan.textContent);
+            if (firstSpan.textContent === 'Celigo') {
+                firstSpan.style.display = 'none';
+            }
+        });
+    }
+
+    // Run the function periodically to catch new results
+    function checkAndModifyResults() {
+        if (document.readyState === 'complete') {
+            modifySearchResults();
+            // Check again after a short delay in case more results load
+            setTimeout(modifySearchResults, 1000);
+        } else {
+            // If the page isn't fully loaded yet, check again soon
+            setTimeout(checkAndModifyResults, 100);
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', checkAndModifyResults);
+</script>
+<style>
+    .fuse-search-input .wp-block-search__label, .fuse-search-input .wp-block-search__button {
+        display: none;
+    }
+    .container-fluid > div {
+        max-width: 1470px !important;
+    }
+    .wp-block-search__input {
+        background-size: inherit;
+        background: #fff url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTciIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAxNyAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2IDE2LjVMMTIuMzc1IDEyLjg3NU0xNC4zMzMzIDguMTY2NjdDMTQuMzMzMyAxMS44NDg2IDExLjM0ODYgMTQuODMzMyA3LjY2NjY3IDE0LjgzMzNDMy45ODQ3NyAxNC44MzMzIDEgMTEuODQ4NiAxIDguMTY2NjdDMSA0LjQ4NDc3IDMuOTg0NzcgMS41IDcuNjY2NjcgMS41QzExLjM0ODYgMS41IDE0LjMzMzMgNC40ODQ3NyAxNC4zMzMzIDguMTY2NjdaIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=) no-repeat right 10px center;
+        position: relative;
+    }
+    .gs-title, .gs-title * {
+        font-size: 1.625rem !important;
+        line-height: 2.125rem;
+        font-family: area-normal, sans-serif;
+        font-weight: 700;
+        margin: 0;
+        color: black !important;
+    }
+    .gs-snippet, .gs-visibleUrl-breadcrumb {
+        font-size: 1rem;
+        line-height: 1.688rem;
+        margin-top: 1.25rem;
+        color: black;
+        font-family: area-normal, sans-serif;
+    }
+    .gsc-thumbnail, .gsc-orderby-container {
+        display: none;
+    }
+    .gsc-result {
+        border-radius: 8px;
+        background: #fff;
+        padding: 3.5625rem 3.25rem !important;
+    }
+    .gsc-expansionArea {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .gsc-cursor-box {
+        width: 100% !important;
+    }
+    .gsc-cursor {
+        display: flex !important;
+        align-items: center;
+        margin: 0;
+        gap: .625rem;
+        justify-content: center;
+    }
+    .gsc-cursor-page {
+        font-size: 1rem;
+        line-height: 2.5rem;
+        width: 2.5rem;
+        text-align: center;
+        font-weight: 500;
+    }
+    .wp-block-group {
+        max-width: 100%;
+    }
+    .cta::after {
+        display: none;
+    }
+    input[type = 'search']::-webkit-search-cancel-button{
+        position: absolute;
+        right: 10%;
+    }
+</style>
+</div><!-- #page-content -->
+
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/celigo\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div 
+	id="pum-36251" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:36251,&quot;slug&quot;:&quot;b2b-manager&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-36251" class="pum-container popmake theme-28223 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="display: flex; justify-content: center; align-items: center; height: 100%; padding: 50px; text-align: center;"><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+    hbspt.forms.create({
+      portalId: "5812834",
+      formId: "b6ba7546-0395-4a16-9308-f5241d6393af",
+      target: "#form-container"
+    });
+  </script></div>
+<div id="form-container" style="display: flex; justify-content: center; align-items: center; width: 100%; text-align: center;"></div>
+<p></br></br></br></p>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			×			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-28274" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:28274,&quot;slug&quot;:&quot;netsuite-salesforce-video&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-28274" class="pum-container popmake theme-28223 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="margin-bottom: -5px; margin-right: -1px;"><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="Celigo NetSuite - Salesforce Integration App Demo Video" src="https://fast.wistia.net/embed/iframe/yl3igvg3i8?dnt=1#?secret=gMCkOfRaZl" data-secret="gMCkOfRaZl" frameborder="0" scrolling="no" width="100%" height="480"></iframe></div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-28332" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:28332,&quot;slug&quot;:&quot;netsuite-shopify-video&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-28332" class="pum-container popmake theme-28223 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="margin-bottom: -5px; margin-right: -1px;"><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="Celigo NetSuite - Salesforce Integration App Demo Video" src="https://fast.wistia.net/embed/iframe/03ldqlny5e?dnt=1#?secret=gMCkOfRaZl" data-secret="gMCkOfRaZl" frameborder="0" scrolling="no" width="100%" height="480"></iframe></div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-28338" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:28338,&quot;slug&quot;:&quot;netsuite-hubspot-video&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-28338" class="pum-container popmake theme-28223 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="margin-bottom: -5px; margin-right: -1px;"><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="Celigo NetSuite - Salesforce Integration App Demo Video" src="https://fast.wistia.net/embed/iframe/03ldqlny5e?dnt=1#?secret=gMCkOfRaZl" data-secret="gMCkOfRaZl" frameborder="0" scrolling="no" width="100%" height="480"></iframe></div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-28267" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:28267,&quot;slug&quot;:&quot;netsuite-hubspot&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-28267" class="pum-container popmake theme-28223 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="padding: 15px;"><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+  hbspt.forms.create({
+    portalId: "5812834",
+    formId: "6ccd93ac-93bb-4b55-b667-78bb345d3e66",
+    sfdcCampaignId: "7010M000002JPFrQAO"
+  });
+</script></div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-28264" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:28264,&quot;slug&quot;:&quot;netsuite-shopify&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-28264" class="pum-container popmake theme-28223 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="padding: 15px;"><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+  hbspt.forms.create({
+    portalId: "5812834",
+    formId: "90f8630a-8a17-49cd-a003-3cabf862afef",
+    sfdcCampaignId: "7010M000002JPFrQAO"
+  });
+</script></div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-28271" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:28271,&quot;slug&quot;:&quot;netsuite-salesforce&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-28271" class="pum-container popmake theme-28223 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="padding: 15px;"><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+  hbspt.forms.create({
+    portalId: "5812834",
+    formId: "79bd16df-50ad-4b88-aee8-5942cc143b65",
+    sfdcCampaignId: "7010M000002JPFrQAO"
+  });
+</script></div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-28427" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:28427,&quot;slug&quot;:&quot;netsuite-video&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-28427" class="pum-container popmake theme-28223 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="margin-bottom: -5px; margin-right: -1px;"><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="Celigo NetSuite - Salesforce Integration App Demo Video" src="https://fast.wistia.com/embed/medias/9ebxm645af?dnt=1#?secret=gMCkOfRaZl" data-secret="gMCkOfRaZl" frameborder="0" scrolling="no" width="100%" height="480"></iframe></div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<div 
+	id="pum-28231" 
+	role="dialog" 
+	aria-modal="false"
+	class="pum pum-overlay pum-theme-28223 pum-theme-lightbox popmake-overlay click_open" 
+	data-popmake="{&quot;id&quot;:28231,&quot;slug&quot;:&quot;netsuite-integration-page&quot;,&quot;theme_id&quot;:28223,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;X&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-28231" class="pum-container popmake theme-28223 pum-responsive pum-responsive-small responsive size-small">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<div style="padding: 15px;"><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script><br />
+<script>
+  hbspt.forms.create({
+    portalId: "5812834",
+    formId: "3720368a-a214-411a-af89-f58335549472",
+    sfdcCampaignId: "7010M000002JPFrQAO"
+  });
+</script></div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			X			</button>
+		
+	</div>
+
+</div>
+<link rel='stylesheet' id='body-layout-5a-css' href='https://www.celigo.com/wp-content/cache/asset-cleanup/css/item/celigo__dist__css__body-layout__5a__style-css-v8255fdd91ef80478a5db2260ad49e6706958943d.css' media='all' />
+<style   data-wpacu-inline-css-file='1'>
+/*!/wp-content/themes/celigo/dist/css/body-layout/5e/style.css*/.body-layout-5e .container{text-align:left}.body-layout-5e .container.align-center{margin-right:auto;margin-left:auto}.body-layout-5e__content.align-center{text-align:center}.body-layout-5e__headline{margin-top:0;margin-bottom:.5rem}.body-layout-5e-image{margin:auto;max-width:65px;margin-bottom:2rem}.body-layout-5e__subhead{max-width:44.375rem;font-size:1.125rem}.body-layout-5e__subhead.align-center{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin:0 auto}.body-layout-5e__buttons{display:-webkit-box;display:-ms-flexbox;display:flex;gap:1rem;margin-top:2rem}.body-layout-5e__buttons.align-center{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.body-layout-5e__lower-text{margin-top:2rem}.body-layout-5e__buttons .cta{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.body-layout-5e__buttons .cta::after{margin-top:.375rem}@media screen and (max-width:576px){.body-layout-5e__subhead p{font-size:1rem}}.bg-celigo-black a.btn-arrow-primary{background:#fff}
+</style>
+<style   data-wpacu-inline-css-file='1'>
+/*!/wp-content/themes/celigo/dist/css/body-layout/5v/style.css*/.body-layout-5v p{font-size:1rem}.body-layout-5v__top-content{margin-bottom:9.375rem;max-width:71rem;text-align:left}.body-layout-5v__headline{padding-bottom:32px}.body-layout-5v__subhead p{font-size:1.125rem;line-height:1.8125rem}.body-layout-5v__columns{display:-webkit-box;display:-ms-flexbox;display:flex;gap:7.75rem}@media screen and (max-width:999px){.body-layout-5v__columns{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;gap:3.5rem}}.body-layout-5v__col-1,.body-layout-5v__col-2,.body-layout-5v__col-3{width:33.3333%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}@media screen and (max-width:999px){.body-layout-5v__col-1,.body-layout-5v__col-2,.body-layout-5v__col-3{width:100%}}.body-layout-5v__col-1-header,.body-layout-5v__col-2-header,.body-layout-5v__col-3-header{margin-bottom:1.5rem}.body-layout-5v__col-1-header::before,.body-layout-5v__col-2-header::before,.body-layout-5v__col-3-header::before{content:"";display:block;width:100%;height:.1875rem;background-color:#000;margin-bottom:1.5rem}.body-layout-5v__col-1-body,.body-layout-5v__col-2-body,.body-layout-5v__col-3-body{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.body-layout-5v__cta{color:#000;text-decoration:none;font-size:1rem;font-weight:700;vertical-align:middle;display:inline-block;margin-top:2.1875rem}.body-layout-5v__cta:hover{text-decoration:underline}.body-layout-5v__cta img{vertical-align:middle;margin-left:.6875rem}.body-layout-5v.bg-celigo-black .body-layout-5v__col-1-header::before,.body-layout-5v.bg-celigo-black .body-layout-5v__col-2-header::before,.body-layout-5v.bg-celigo-black .body-layout-5v__col-3-header::before{background-color:#fff}
+</style>
+<style   data-wpacu-inline-css-file='1'>
+/*!/wp-content/themes/celigo/dist/css/custom-module/6g/style.css*/.custom-module-6g .container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;gap:161px}@media (max-width:1139px){.custom-module-6g .container{gap:10px}}@media (max-width:770px){.custom-module-6g .container{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}}.custom-module-6g .container.reverse{-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}@media (max-width:770px){.custom-module-6g .container.reverse{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}}@media (max-width:576px){.custom-module-6g .container .custom-module-6g__subhead p{font-size:1rem;line-height:1.688rem}}.custom-module-6g .container .custom-module-6g__eyebrow{margin-bottom:.3125rem}.custom-module-6g .container .custom-module-6g__content{width:37%}@media (max-width:770px){.custom-module-6g .container .custom-module-6g__content{width:100%}}.custom-module-6g .container .custom-module-6g__headline{margin-bottom:2rem}.custom-module-6g .container .custom-module-6g__block-header{margin-bottom:1rem}.custom-module-6g .container .custom-module-6g__block-subheader p{font-size:1rem;line-height:1.688rem}.custom-module-6g .container .custom-module-6g__buttons{margin-top:3.25rem}@media (max-width:770px){.custom-module-6g .container .custom-module-6g__buttons{grid-template-columns:1fr;width:100%}}.custom-module-6g .container .custom-module-6g__blocks{margin-top:44px;width:50%;display:grid;grid-template-columns:1fr 1fr;-webkit-column-gap:54px;-moz-column-gap:54px;column-gap:54px}@media (max-width:770px){.custom-module-6g .container .custom-module-6g__blocks{grid-template-columns:1fr;width:100%;margin-top:60px}}.custom-module-6g .container .custom-module-6g__blocks .custom-module-6g__block{margin-bottom:54px}.custom-module-6g .cta:hover{text-decoration:underline}.custom-module-6g .custom-module-6g__cta{color:#000;text-decoration:none;font-size:1rem;font-weight:700;vertical-align:middle;display:inline-block;margin-top:2.1875rem}.custom-module-6g .custom-module-6g__cta:hover{text-decoration:underline}.custom-module-6g .custom-module-6g__cta img{vertical-align:middle;margin-left:.6875rem}
+</style>
+<link rel='stylesheet' id='custom-module-6u-css' href='https://www.celigo.com/wp-content/cache/asset-cleanup/css/item/celigo__dist__css__custom-module__6u__style-css-v4ac851547775073f9342e64a21b14695df1dfcb4.css' media='all' />
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--celigo-black: #000000;--wp--preset--color--celigo-white: #FFFFFF;--wp--preset--color--nightsky: #3A2D27;--wp--preset--color--periwinkle: #CDC6E6;--wp--preset--color--redwood: #876457;--wp--preset--color--driftwood: #887E6F;--wp--preset--color--lagoon: #86B0B6;--wp--preset--color--karl: #B4C5CB;--wp--preset--color--chaparral: #596D67;--wp--preset--color--aspen: #CED8A3;--wp--preset--color--golden: #F4BE60;--wp--preset--color--wheatgrass: #D6C56B;--wp--preset--color--jacaranda: #A06888;--wp--preset--color--beaujolais: #D893AF;--wp--preset--color--pueblo: #D88D56;--wp--preset--color--peach: #F3B38F;--wp--preset--color--vermilion: #A04B4B;--wp--preset--color--nagpur: #D87366;--wp--preset--color--cool-gray-30: #B2B2B2;--wp--preset--color--cool-gray-20: #CCCCCC;--wp--preset--color--cool-gray-10: #E5E5E5;--wp--preset--color--warm-gray-30: #DBD8D3;--wp--preset--color--warm-gray-20: #E7E5E2;--wp--preset--color--warm-gray-10: #F3F2F0;--wp--preset--color--neutral-30: #F2EDD2;--wp--preset--color--neutral-20: #F7F3E1;--wp--preset--color--neutral-10: #FAF9F0;--wp--preset--color--bright-red: #FF0000;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 1368px;--wp--style--global--wide-size: 1368px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-celigo-black-color{color: var(--wp--preset--color--celigo-black) !important;}.has-celigo-white-color{color: var(--wp--preset--color--celigo-white) !important;}.has-nightsky-color{color: var(--wp--preset--color--nightsky) !important;}.has-periwinkle-color{color: var(--wp--preset--color--periwinkle) !important;}.has-redwood-color{color: var(--wp--preset--color--redwood) !important;}.has-driftwood-color{color: var(--wp--preset--color--driftwood) !important;}.has-lagoon-color{color: var(--wp--preset--color--lagoon) !important;}.has-karl-color{color: var(--wp--preset--color--karl) !important;}.has-chaparral-color{color: var(--wp--preset--color--chaparral) !important;}.has-aspen-color{color: var(--wp--preset--color--aspen) !important;}.has-golden-color{color: var(--wp--preset--color--golden) !important;}.has-wheatgrass-color{color: var(--wp--preset--color--wheatgrass) !important;}.has-jacaranda-color{color: var(--wp--preset--color--jacaranda) !important;}.has-beaujolais-color{color: var(--wp--preset--color--beaujolais) !important;}.has-pueblo-color{color: var(--wp--preset--color--pueblo) !important;}.has-peach-color{color: var(--wp--preset--color--peach) !important;}.has-vermilion-color{color: var(--wp--preset--color--vermilion) !important;}.has-nagpur-color{color: var(--wp--preset--color--nagpur) !important;}.has-cool-gray-30-color{color: var(--wp--preset--color--cool-gray-30) !important;}.has-cool-gray-20-color{color: var(--wp--preset--color--cool-gray-20) !important;}.has-cool-gray-10-color{color: var(--wp--preset--color--cool-gray-10) !important;}.has-warm-gray-30-color{color: var(--wp--preset--color--warm-gray-30) !important;}.has-warm-gray-20-color{color: var(--wp--preset--color--warm-gray-20) !important;}.has-warm-gray-10-color{color: var(--wp--preset--color--warm-gray-10) !important;}.has-neutral-30-color{color: var(--wp--preset--color--neutral-30) !important;}.has-neutral-20-color{color: var(--wp--preset--color--neutral-20) !important;}.has-neutral-10-color{color: var(--wp--preset--color--neutral-10) !important;}.has-bright-red-color{color: var(--wp--preset--color--bright-red) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-celigo-black-background-color{background-color: var(--wp--preset--color--celigo-black) !important;}.has-celigo-white-background-color{background-color: var(--wp--preset--color--celigo-white) !important;}.has-nightsky-background-color{background-color: var(--wp--preset--color--nightsky) !important;}.has-periwinkle-background-color{background-color: var(--wp--preset--color--periwinkle) !important;}.has-redwood-background-color{background-color: var(--wp--preset--color--redwood) !important;}.has-driftwood-background-color{background-color: var(--wp--preset--color--driftwood) !important;}.has-lagoon-background-color{background-color: var(--wp--preset--color--lagoon) !important;}.has-karl-background-color{background-color: var(--wp--preset--color--karl) !important;}.has-chaparral-background-color{background-color: var(--wp--preset--color--chaparral) !important;}.has-aspen-background-color{background-color: var(--wp--preset--color--aspen) !important;}.has-golden-background-color{background-color: var(--wp--preset--color--golden) !important;}.has-wheatgrass-background-color{background-color: var(--wp--preset--color--wheatgrass) !important;}.has-jacaranda-background-color{background-color: var(--wp--preset--color--jacaranda) !important;}.has-beaujolais-background-color{background-color: var(--wp--preset--color--beaujolais) !important;}.has-pueblo-background-color{background-color: var(--wp--preset--color--pueblo) !important;}.has-peach-background-color{background-color: var(--wp--preset--color--peach) !important;}.has-vermilion-background-color{background-color: var(--wp--preset--color--vermilion) !important;}.has-nagpur-background-color{background-color: var(--wp--preset--color--nagpur) !important;}.has-cool-gray-30-background-color{background-color: var(--wp--preset--color--cool-gray-30) !important;}.has-cool-gray-20-background-color{background-color: var(--wp--preset--color--cool-gray-20) !important;}.has-cool-gray-10-background-color{background-color: var(--wp--preset--color--cool-gray-10) !important;}.has-warm-gray-30-background-color{background-color: var(--wp--preset--color--warm-gray-30) !important;}.has-warm-gray-20-background-color{background-color: var(--wp--preset--color--warm-gray-20) !important;}.has-warm-gray-10-background-color{background-color: var(--wp--preset--color--warm-gray-10) !important;}.has-neutral-30-background-color{background-color: var(--wp--preset--color--neutral-30) !important;}.has-neutral-20-background-color{background-color: var(--wp--preset--color--neutral-20) !important;}.has-neutral-10-background-color{background-color: var(--wp--preset--color--neutral-10) !important;}.has-bright-red-background-color{background-color: var(--wp--preset--color--bright-red) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-celigo-black-border-color{border-color: var(--wp--preset--color--celigo-black) !important;}.has-celigo-white-border-color{border-color: var(--wp--preset--color--celigo-white) !important;}.has-nightsky-border-color{border-color: var(--wp--preset--color--nightsky) !important;}.has-periwinkle-border-color{border-color: var(--wp--preset--color--periwinkle) !important;}.has-redwood-border-color{border-color: var(--wp--preset--color--redwood) !important;}.has-driftwood-border-color{border-color: var(--wp--preset--color--driftwood) !important;}.has-lagoon-border-color{border-color: var(--wp--preset--color--lagoon) !important;}.has-karl-border-color{border-color: var(--wp--preset--color--karl) !important;}.has-chaparral-border-color{border-color: var(--wp--preset--color--chaparral) !important;}.has-aspen-border-color{border-color: var(--wp--preset--color--aspen) !important;}.has-golden-border-color{border-color: var(--wp--preset--color--golden) !important;}.has-wheatgrass-border-color{border-color: var(--wp--preset--color--wheatgrass) !important;}.has-jacaranda-border-color{border-color: var(--wp--preset--color--jacaranda) !important;}.has-beaujolais-border-color{border-color: var(--wp--preset--color--beaujolais) !important;}.has-pueblo-border-color{border-color: var(--wp--preset--color--pueblo) !important;}.has-peach-border-color{border-color: var(--wp--preset--color--peach) !important;}.has-vermilion-border-color{border-color: var(--wp--preset--color--vermilion) !important;}.has-nagpur-border-color{border-color: var(--wp--preset--color--nagpur) !important;}.has-cool-gray-30-border-color{border-color: var(--wp--preset--color--cool-gray-30) !important;}.has-cool-gray-20-border-color{border-color: var(--wp--preset--color--cool-gray-20) !important;}.has-cool-gray-10-border-color{border-color: var(--wp--preset--color--cool-gray-10) !important;}.has-warm-gray-30-border-color{border-color: var(--wp--preset--color--warm-gray-30) !important;}.has-warm-gray-20-border-color{border-color: var(--wp--preset--color--warm-gray-20) !important;}.has-warm-gray-10-border-color{border-color: var(--wp--preset--color--warm-gray-10) !important;}.has-neutral-30-border-color{border-color: var(--wp--preset--color--neutral-30) !important;}.has-neutral-20-border-color{border-color: var(--wp--preset--color--neutral-20) !important;}.has-neutral-10-border-color{border-color: var(--wp--preset--color--neutral-10) !important;}.has-bright-red-border-color{border-color: var(--wp--preset--color--bright-red) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<style id='core-block-supports-inline-css'>
+.wp-elements-9a3d6253f7665b430ffb64a5d9a2cb8d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--celigo-black);}.wp-elements-c7cb0a8d93aeea8c1515df9817b6347f a:where(:not(.wp-element-button)){color:var(--wp--preset--color--celigo-black);}
+</style>
+<script src="https://www.celigo.com/wp-content/themes/celigo/dist/js/jquery-scroll-fix.min.js?ver=6.8" id="jquery-scroll-fix-js"></script>
+<script src="https://www.celigo.com/wp-content/cache/asset-cleanup/js/item/metronet-profile-picture__js__mpp-frontend-js-vdef84cdb943198d25e494fffd2aedb8e99f127fb.js" id="mpp_gutenberg_tabs-js"></script>
+<script id="leadin-script-loader-js-js-extra">
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"11.3.6"};
+</script>
+<script src="https://js.hs-scripts.com/5812834.js?integration=WordPress&amp;ver=11.3.6" id="leadin-script-loader-js-js"></script>
+<script src="https://www.celigo.com/wp-content/cache/asset-cleanup/js/item/celigo__js__navigation-js-v9e7a8987045e6b0b52af05870de71d22c7f01fb9.js" id="celigo-navigation-js"></script>
+<script src="https://www.celigo.com/wp-content/plugins/google-calendar-events/assets/generated/vendor/jquery.qtip.min.js?ver=3.5.3" id="simcal-qtip-js"></script>
+<script id="simcal-default-calendar-js-extra">
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"050ae3db41","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+</script>
+<script src="https://www.celigo.com/wp-content/plugins/google-calendar-events/assets/generated/default-calendar.min.js?ver=3.5.3" id="simcal-default-calendar-js"></script>
+<script src="https://www.celigo.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="popup-maker-site-js-extra">
+var pum_vars = {"version":"1.20.5","pm_dir_url":"https:\/\/www.celigo.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.celigo.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.celigo.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"28222","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/www.celigo.com\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.celigo.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-36251":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":36251,"slug":"b2b-manager"},"pum-28274":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":28274,"slug":"netsuite-salesforce-video"},"pum-28332":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":28332,"slug":"netsuite-shopify-video"},"pum-28338":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":28338,"slug":"netsuite-hubspot-video"},"pum-28267":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":28267,"slug":"netsuite-hubspot"},"pum-28264":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":28264,"slug":"netsuite-shopify"},"pum-28271":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":28271,"slug":"netsuite-salesforce"},"pum-28427":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":28427,"slug":"netsuite-video"},"pum-28231":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"28223","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":28231,"slug":"netsuite-integration-page"}};
+</script>
+<script src="//www.celigo.com/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1748759380&amp;ver=1.20.5" id="popup-maker-site-js"></script>
+<script src="https://www.celigo.com/wp-content/cache/asset-cleanup/js/item/highlighting-code-block__assets__js__prism-js-v4115e981b6a901a4777524ee89057e0bb5ba9dae.js" id="hcb-prism-js"></script>
+<script src="https://www.celigo.com/wp-includes/js/clipboard.min.js?ver=2.0.11" id="clipboard-js"></script>
+<script id="hcb-script-js-extra">
+var hcbVars = {"showCopyBtn":"1","copyBtnLabel":"Copy code to clipboard"};
+</script>
+<script src="https://www.celigo.com/wp-content/plugins/highlighting-code-block/build/js/hcb_script.js?ver=2.0.1" id="hcb-script-js"></script>
+<script src="https://www.celigo.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script src="https://www.celigo.com/wp-content/cache/asset-cleanup/js/item/megamenu__js__maxmegamenu-js-v91273835fcbca5454c743a6daf5cc1daba057a35.js" id="megamenu-js"></script>
+<script src="https://www.celigo.com/wp-content/cache/asset-cleanup/js/item/megamenu-pro__assets__public-js-vbf083f836c88eb125e91531e954eca7c36ffdec7.js" id="megamenu-pro-js"></script>
+<script src="https://www.celigo.com/wp-content/plugins/google-calendar-events/assets/generated/vendor/imagesloaded.pkgd.min.js?ver=3.5.3" id="simplecalendar-imagesloaded-js"></script>
+<script src="https://www.celigo.com/wp-content/plugins/searchwp/assets/js/frontend/search-forms.min.js?ver=4.4.0" id="searchwp-forms-js"></script>
+<script src="https://www.celigo.com/wp-content/plugins/advanced-custom-fields-pro/assets/build/js/acf.min.js?ver=6.4.2" id="acf-js"></script>
+<script src="https://www.celigo.com/wp-content/themes/celigo/dist/js/slick.min.js?ver=6.8" id="slick-js"></script>
+<script src="https://www.celigo.com/wp-content/themes/celigo/dist/js/body-layout/5a/body-layout_5a.min.js?ver=1.0.694" id="body-layout-5a-js"></script>
+<script src="https://www.celigo.com/wp-content/themes/celigo/dist/js/custom-module/6u/custom-module_6u.min.js?ver=1.0.694" id="custom-module-6u-js"></script>
+<script src="https://www.celigo.com/wp-content/cache/asset-cleanup/js/item/greenshift-animation-and-page-builder-blocks__libs__motion__smoothscroll-js-v07cf26e25fb2358dbab92851ee4c02581431d2c7.js" id="gs-smooth-scroll-js"></script>
+<script>
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+
+</script>
+<script>if ('undefined' != typeof FWP_HTTP) FWP_HTTP.lang = 'en';</script><script>
+    (function($) {
+      $('.facetwp-template[data-name="articles"], .facetwp-template[data-name="ebooks"], .facetwp-template[data-name="integrations"], .facetwp-template[data-name="blogs"], .facetwp-template[data-name="partners"], .facetwp-template[data-name="customer_stories"]').on('click', '.fwpl-result', function() {
+        window.location.href = $(this).find('.el-rquvk a').attr('href');
+      });
+      $('.facetwp-template[data-name="in_the_news"]').on('click', '.fwpl-result', function() {
+        window.open($(this).find('.el-45jyrx a').attr('href'), '_blank');
+      });
+    })(jQuery);
+</script>
+  <script>
+	  (function($) {
+		$('.facetwp-template[data-name="integrations"]').on('click', '.fwpl-result', function() {
+		  window.location.href = $(this).find('.el-mac73 a').attr('href');
+		});
+	  })(jQuery);
+  </script>
+  
+<!-- BEGIN SEARCHWP DEBUG
+
+[NO QUERIES]
+
+END SEARCHWP DEBUG -->
+
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"94a22cc719ac72e8","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.5.0","token":"a90678334a3148e4baa20ae513411669"}' crossorigin="anonymous"></script>
+</body>
+
+</html>
